@@ -1,0 +1,76 @@
+Ekranda	B-LOCATION
+yanıp	B-OBJECT
+sönen	I-OBJECT
+o	O
+kırmızı	B-OBJECT
+şeye	I-OBJECT
+bas	B-ACTION
+hemen	O
+
+Spotify'dan	B-PATH
+şu	O
+şarkıyı	B-OBJECT
+listeye	B-LOCATION
+atsana	B-ACTION
+
+Bilgisayarın	B-OBJECT
+parlaklığını	I-OBJECT
+sonuna	B-LOCATION
+kadar	I-LOCATION
+kıs	B-ACTION
+kör	O
+oldum	O
+
+Amazon'daki	B-LOCATION
+şu	O
+kulaklığı	B-OBJECT
+sepete	B-LOCATION
+ekle	B-ACTION
+de	O
+alalım	O
+artık	O
+
+Şu	O
+PDF'i	B-OBJECT
+WhatsApp'tan	B-PATH
+hocaya	B-LOCATION
+yollayıver	B-ACTION
+
+Masaüstündeki	B-LOCATION
+o	O
+isimsiz	B-OBJECT
+klasörü	I-OBJECT
+komple	O
+yok	B-ACTION
+et	I-ACTION
+
+Modemin	B-PATH
+arayüzüne	I-PATH
+girip	B-ACTION
+şu	O
+wifi	B-OBJECT
+şifresini	I-OBJECT
+günceller	B-ACTION
+misin	O
+
+Şu	O
+sağ	B-LOCATION
+köşedeki	I-LOCATION
+çarpı	B-OBJECT
+işaretine	I-OBJECT
+vur	B-ACTION
+da	O
+kapansın	B-ACTION
+
+Steam'i	B-OBJECT
+açıp	B-ACTION
+şu	O
+oyunu	B-OBJECT
+indirmeye	B-ACTION
+başlasana	I-ACTION
+
+Klavyenin	B-OBJECT
+ışıklarını	I-OBJECT
+söndür	B-ACTION
+film	O
+izleyeceğiz	O

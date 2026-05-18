@@ -1,0 +1,1316 @@
+Lütfen O
+şu O
+Wordde B-PATH
+açık B-OBJECT
+olan I-OBJECT
+belgeyi I-OBJECT
+masaüstüne B-LOCATION
+PDF B-RESULT
+olarak I-RESULT
+kaydet B-ACTION
+
+Bi O
+zahmet O
+Chrome B-PATH
+üzerinden I-PATH
+yeni B-OBJECT
+bir I-OBJECT
+sekme I-OBJECT
+aç B-ACTION
+
+Hızlıca O
+Excelde B-PATH
+birinci B-OBJECT
+satırı I-OBJECT
+sabit B-RESULT
+hale I-RESULT
+getir B-ACTION
+
+Şu O
+PowerPointte B-PATH
+seçili B-OBJECT
+slaydı I-OBJECT
+bir B-RESULT
+kopya I-RESULT
+olarak I-RESULT
+çoğalt B-ACTION
+
+Sana O
+zahmet O
+Windows B-PATH
+üzerinde I-PATH
+indirilenler B-OBJECT
+klasörünü I-OBJECT
+aç B-ACTION
+
+Lütfen O
+masaüstünde B-LOCATION
+yeni B-OBJECT
+bir I-OBJECT
+klasörü I-OBJECT
+Ders_Notları B-RESULT
+olarak I-RESULT
+adlandır B-ACTION
+
+Bi O
+şu O
+Wordde B-PATH
+seçili B-OBJECT
+metni I-OBJECT
+kalın B-RESULT
+yap B-ACTION
+
+Hemen O
+Excelde B-PATH
+A B-OBJECT
+sütununu I-OBJECT
+tarih B-RESULT
+formatına I-RESULT
+çevir B-ACTION
+
+Lütfen O
+Chrome B-PATH
+içinde I-PATH
+açık B-OBJECT
+sayfayı I-OBJECT
+yenile B-ACTION
+
+Şu O
+dosya B-PATH
+gezgininde I-PATH
+gizli B-OBJECT
+dosyaları I-OBJECT
+görünür B-RESULT
+hale I-RESULT
+getir B-ACTION
+
+Bi O
+zahmet O
+PowerPointte B-PATH
+başlık B-OBJECT
+kutusunu I-OBJECT
+sağ B-LOCATION
+üst I-LOCATION
+köşeye I-LOCATION
+taşı B-ACTION
+
+Lütfen O
+Wordde B-PATH
+sayfa B-OBJECT
+yönünü I-OBJECT
+yatay B-RESULT
+yap B-ACTION
+
+Şu O
+Excelde B-PATH
+seçili B-OBJECT
+hücreleri I-OBJECT
+birleşik B-RESULT
+ve I-RESULT
+ortalanmış I-RESULT
+yap B-ACTION
+
+Hızlıca O
+Chrome B-PATH
+üzerinde I-PATH
+yer B-OBJECT
+imleri I-OBJECT
+çubuğunu I-OBJECT
+görünür B-RESULT
+yap B-ACTION
+
+Sana O
+zahmet O
+Windows B-PATH
+sisteminde I-PATH
+geri B-OBJECT
+dönüşüm I-OBJECT
+kutusunu I-OBJECT
+boş B-RESULT
+hale I-RESULT
+getir B-ACTION
+
+Lütfen O
+Wordde B-PATH
+yazı B-OBJECT
+boyutunu I-OBJECT
+on B-RESULT
+iki I-RESULT
+punto I-RESULT
+yap B-ACTION
+
+Bi O
+Excelde B-PATH
+aktif B-OBJECT
+filtreyi I-OBJECT
+temiz B-RESULT
+duruma I-RESULT
+getir B-ACTION
+
+Şu O
+PowerPointte B-PATH
+sunumu B-OBJECT
+geçerli B-RESULT
+slayttan I-RESULT
+başlat B-ACTION
+
+Hemen O
+Chrome B-PATH
+üzerinde I-PATH
+tarama B-OBJECT
+geçmişini I-OBJECT
+tamamen B-RESULT
+temizle B-ACTION
+
+Lütfen O
+dosya B-PATH
+gezgininde I-PATH
+seçili B-OBJECT
+klasörü I-OBJECT
+D B-LOCATION
+diskine I-LOCATION
+kopyala B-ACTION
+
+Bi O
+zahmet O
+Wordde B-PATH
+yorum B-OBJECT
+balonlarını I-OBJECT
+gizli B-RESULT
+hale I-RESULT
+getir B-ACTION
+
+Şu O
+Excelde B-PATH
+seçili B-OBJECT
+verilerle I-OBJECT
+sütun B-RESULT
+grafiği I-RESULT
+oluştur B-ACTION
+
+Lütfen O
+PowerPointte B-PATH
+slayt B-OBJECT
+arka I-OBJECT
+planını I-OBJECT
+beyaz B-RESULT
+yap B-ACTION
+
+Hızlıca O
+Windows B-PATH
+sisteminde I-PATH
+ses B-OBJECT
+seviyesini I-OBJECT
+yüzde B-RESULT
+elli I-RESULT
+seviyesine I-RESULT
+indir B-ACTION
+
+Şu O
+Chrome B-PATH
+sayfasındaki I-PATH
+dosyayı B-OBJECT
+indirilenler B-LOCATION
+klasörüne I-LOCATION
+kaydet B-ACTION
+
+Lütfen O
+Wordde B-PATH
+sayfa B-OBJECT
+numarasını I-OBJECT
+alt B-LOCATION
+ortaya I-LOCATION
+ekle B-ACTION
+
+Bi O
+Excelde B-PATH
+B B-OBJECT
+sütununu I-OBJECT
+para B-RESULT
+birimi I-RESULT
+formatına I-RESULT
+ayarla B-ACTION
+
+Şu O
+PowerPointte B-PATH
+seçili B-OBJECT
+resmi I-OBJECT
+slaydın B-LOCATION
+ortasına I-LOCATION
+hizala B-ACTION
+
+Hemen O
+masaüstünde B-LOCATION
+boş B-OBJECT
+bir I-OBJECT
+metin I-OBJECT
+dosyası I-OBJECT
+oluştur B-ACTION
+
+Lütfen O
+Windows B-PATH
+üzerinde I-PATH
+açık B-OBJECT
+pencereyi I-OBJECT
+simge B-RESULT
+durumuna I-RESULT
+küçült B-ACTION
+
+Bi O
+zahmet O
+Chrome B-PATH
+içinde I-PATH
+son B-OBJECT
+kapatılan I-OBJECT
+sekmeyi I-OBJECT
+geri B-RESULT
+aç B-ACTION
+
+Şu O
+Wordde B-PATH
+seçili B-OBJECT
+paragrafı I-OBJECT
+iki B-RESULT
+yana I-RESULT
+yaslı I-RESULT
+yap B-ACTION
+
+Lütfen O
+Excelde B-PATH
+C5 B-OBJECT
+hücresini I-OBJECT
+sarı B-RESULT
+renkle I-RESULT
+vurgula B-ACTION
+
+Hızlıca O
+PowerPointte B-PATH
+yeni B-OBJECT
+bir I-OBJECT
+slayt I-OBJECT
+ekle B-ACTION
+
+Şu O
+Windows B-PATH
+masaüstünde I-PATH
+seçili B-OBJECT
+dosyayı I-OBJECT
+Belgeler B-LOCATION
+klasörüne I-LOCATION
+taşı B-ACTION
+
+Sana O
+zahmet O
+dosya B-PATH
+gezgininde I-PATH
+dosya B-OBJECT
+uzantılarını I-OBJECT
+görünür B-RESULT
+yap B-ACTION
+
+Lütfen O
+Chrome B-PATH
+üzerinde I-PATH
+geçerli B-OBJECT
+sayfayı I-OBJECT
+yer B-RESULT
+imi I-RESULT
+olarak I-RESULT
+ekle B-ACTION
+
+Bi O
+Wordde B-PATH
+belge B-OBJECT
+görünümünü I-OBJECT
+okuma B-RESULT
+moduna I-RESULT
+al B-ACTION
+
+Şu O
+Excelde B-PATH
+ilk B-OBJECT
+sütunu I-OBJECT
+sabit B-RESULT
+hale I-RESULT
+getir B-ACTION
+
+Hemen O
+PowerPointte B-PATH
+seçili B-OBJECT
+slaytı I-OBJECT
+sunumun B-LOCATION
+sonuna I-LOCATION
+taşı B-ACTION
+
+Lütfen O
+Windows B-PATH
+sisteminde I-PATH
+ekran B-OBJECT
+parlaklığını I-OBJECT
+yüzde B-RESULT
+yetmiş I-RESULT
+yap B-ACTION
+
+Bi O
+zahmet O
+Chrome B-PATH
+içinde I-PATH
+arama B-OBJECT
+kutusunu I-OBJECT
+aktif B-RESULT
+hale I-RESULT
+getir B-ACTION
+
+Şu O
+Wordde B-PATH
+seçili B-OBJECT
+metni I-OBJECT
+kırmızı B-RESULT
+renge I-RESULT
+çevir B-ACTION
+
+Lütfen O
+Excelde B-PATH
+aktif B-OBJECT
+sayfanın I-OBJECT
+adını I-OBJECT
+Final B-RESULT
+Sonuçları I-RESULT
+olarak O
+değiştir B-ACTION
+
+Hızlıca O
+PowerPointte B-PATH
+başlık B-OBJECT
+metnini I-OBJECT
+otuz B-RESULT
+iki I-RESULT
+punto I-RESULT
+yap B-ACTION
+
+Şu O
+masaüstünde B-LOCATION
+bulunan B-OBJECT
+rapor B-OBJECT
+dosyasını I-OBJECT
+kopya B-RESULT
+olarak I-RESULT
+kaydet B-ACTION
+
+Lütfen O
+Windows B-PATH
+üzerinde I-PATH
+görev B-OBJECT
+yöneticisini I-OBJECT
+aç B-ACTION
+
+Bi O
+Chrome B-PATH
+üzerinde I-PATH
+açık B-OBJECT
+sekmeyi I-OBJECT
+sessiz B-RESULT
+hale I-RESULT
+getir B-ACTION
+
+Şu O
+Wordde B-PATH
+tablo B-OBJECT
+kenarlıklarını I-OBJECT
+siyah B-RESULT
+yap B-ACTION
+
+Lütfen O
+Excelde B-PATH
+seçili B-OBJECT
+aralığı I-OBJECT
+tablo B-RESULT
+biçimine I-RESULT
+dönüştür B-ACTION
+
+Lütfen O
+Wordde B-PATH
+seçili B-OBJECT
+metni I-OBJECT
+tamamı B-RESULT
+büyük I-RESULT
+harf I-RESULT
+yap B-ACTION
+
+Bi O
+zahmet O
+Wordde B-PATH
+sayfa B-OBJECT
+kenar I-OBJECT
+boşluklarını I-OBJECT
+dar B-RESULT
+hale I-RESULT
+getir B-ACTION
+
+Şu O
+Wordde B-PATH
+üst B-OBJECT
+bilgi I-OBJECT
+alanına I-OBJECT
+Taslak B-RESULT
+metnini I-RESULT
+ekle B-ACTION
+
+Hızlıca O
+Wordde B-PATH
+açık B-OBJECT
+belgeyi I-OBJECT
+D B-LOCATION
+diskine I-LOCATION
+DOCX B-RESULT
+olarak I-RESULT
+kaydet B-ACTION
+
+Lütfen O
+Wordde B-PATH
+tablo B-OBJECT
+başlık I-OBJECT
+satırını I-OBJECT
+açık B-RESULT
+gri I-RESULT
+renge I-RESULT
+boya B-ACTION
+
+Şu O
+Excelde B-PATH
+D B-OBJECT
+sütununu I-OBJECT
+büyükten B-RESULT
+küçüğe I-RESULT
+sırala B-ACTION
+
+Bi O
+Excelde B-PATH
+ilk B-OBJECT
+satır I-OBJECT
+ve I-OBJECT
+ilk I-OBJECT
+sütunu I-OBJECT
+sabit B-RESULT
+hale I-RESULT
+getir B-ACTION
+
+Lütfen O
+Excelde B-PATH
+toplam B-OBJECT
+hücresine I-OBJECT
+otomatik B-RESULT
+toplam I-RESULT
+formülü I-RESULT
+ekle B-ACTION
+
+Şu O
+Excelde B-PATH
+başarısız B-OBJECT
+notları I-OBJECT
+kırmızı B-RESULT
+renkle I-RESULT
+göster B-ACTION
+
+Hemen O
+Excelde B-PATH
+aktif B-OBJECT
+sayfayı I-OBJECT
+çalışma B-LOCATION
+kitabının I-LOCATION
+sonuna I-LOCATION
+kopyala B-ACTION
+
+Lütfen O
+PowerPointte B-PATH
+konuşmacı B-OBJECT
+notlarını I-OBJECT
+görünür B-RESULT
+hale I-RESULT
+getir B-ACTION
+
+Bi O
+PowerPointte B-PATH
+seçili B-OBJECT
+şekli I-OBJECT
+yüzde B-RESULT
+otuz I-RESULT
+saydam I-RESULT
+yap B-ACTION
+
+Şu O
+PowerPointte B-PATH
+seçili B-OBJECT
+görseli I-OBJECT
+sol B-LOCATION
+alt I-LOCATION
+köşeye I-LOCATION
+taşı B-ACTION
+
+Hızlıca O
+PowerPointte B-PATH
+sunum B-OBJECT
+temasını I-OBJECT
+koyu B-RESULT
+mavi I-RESULT
+yap B-ACTION
+
+Lütfen O
+PowerPointte B-PATH
+slayt B-OBJECT
+gösterisini I-OBJECT
+en B-RESULT
+baştan I-RESULT
+başlat B-ACTION
+
+Şu O
+Chrome B-PATH
+sayfasını I-PATH
+Türkçe B-RESULT
+diline I-RESULT
+çevir B-ACTION
+
+Bi O
+zahmet O
+Chrome B-PATH
+üzerinde I-PATH
+indirilenler B-OBJECT
+listesini I-OBJECT
+aç B-ACTION
+
+Hemen O
+Chrome B-PATH
+içinde I-PATH
+yeni B-OBJECT
+bir I-OBJECT
+pencere I-OBJECT
+aç B-ACTION
+
+Lütfen O
+Chrome B-PATH
+üzerinde I-PATH
+geçerli B-OBJECT
+sayfayı I-OBJECT
+yer B-LOCATION
+imleri I-LOCATION
+çubuğuna I-LOCATION
+ekle B-ACTION
+
+Şu O
+Chrome B-PATH
+ayarlarında I-PATH
+önbellek B-OBJECT
+verilerini I-OBJECT
+temiz B-RESULT
+duruma I-RESULT
+getir B-ACTION
+
+Bi O
+Windows B-PATH
+masaüstünde I-PATH
+yeni B-OBJECT
+klasörü I-OBJECT
+Ödevler B-RESULT
+adıyla I-RESULT
+oluştur B-ACTION
+
+Lütfen O
+Windows B-PATH
+üzerinde I-PATH
+seçili B-OBJECT
+dosyaları I-OBJECT
+geri B-LOCATION
+dönüşüm I-LOCATION
+kutusuna I-LOCATION
+taşı B-ACTION
+
+Şu O
+Windows B-PATH
+sisteminde I-PATH
+ayarlar B-OBJECT
+penceresini I-OBJECT
+aç B-ACTION
+
+Hızlıca O
+Windows B-PATH
+ekranında I-PATH
+ölçeklendirme B-OBJECT
+ayarını I-OBJECT
+yüzde B-RESULT
+yüz I-RESULT
+yirmi I-RESULT
+beş I-RESULT
+yap B-ACTION
+
+Lütfen O
+Windows B-PATH
+üzerinde I-PATH
+ekran B-OBJECT
+görüntüsünü I-OBJECT
+masaüstüne B-LOCATION
+kaydet B-ACTION
+
+Bi O
+dosya B-PATH
+gezgininde I-PATH
+klasörleri B-OBJECT
+boyuta B-RESULT
+göre I-RESULT
+sırala B-ACTION
+
+Şu O
+dosya B-PATH
+gezgininde I-PATH
+ayrıntılar B-OBJECT
+bölmesini I-OBJECT
+görünür B-RESULT
+yap B-ACTION
+
+Lütfen O
+dosya B-PATH
+gezgininde I-PATH
+seçili B-OBJECT
+dosyanın I-OBJECT
+adını I-OBJECT
+Rapor_Final B-RESULT
+olarak I-RESULT
+değiştir B-ACTION
+
+Hemen O
+dosya B-PATH
+gezgininde I-PATH
+seçili B-OBJECT
+klasörü I-OBJECT
+USB B-LOCATION
+belleğe I-LOCATION
+kopyala B-ACTION
+
+Bi O
+zahmet O
+dosya B-PATH
+gezgininde I-PATH
+seçili B-OBJECT
+dosyaları I-OBJECT
+ZIP B-RESULT
+dosyası I-RESULT
+olarak I-RESULT
+sıkıştır B-ACTION
+
+Lütfen O
+Wordde B-PATH
+seçili B-OBJECT
+paragrafın I-OBJECT
+satır I-OBJECT
+aralığını I-OBJECT
+bir B-RESULT
+buçuk I-RESULT
+yap B-ACTION
+
+Şu O
+Wordde B-PATH
+kapak B-OBJECT
+sayfasını I-OBJECT
+belgenin B-LOCATION
+başına I-LOCATION
+ekle B-ACTION
+
+Bi O
+Wordde B-PATH
+seçili B-OBJECT
+başlığı I-OBJECT
+Başlık B-RESULT
+1 I-RESULT
+stiline I-RESULT
+çevir B-ACTION
+
+Hızlıca O
+Wordde B-PATH
+tüm B-OBJECT
+yorumları I-OBJECT
+görünür B-RESULT
+hale I-RESULT
+getir B-ACTION
+
+Lütfen O
+Wordde B-PATH
+sayfa B-OBJECT
+rengini I-OBJECT
+açık B-RESULT
+mavi I-RESULT
+yap B-ACTION
+
+Şu O
+Excelde B-PATH
+seçili B-OBJECT
+aralığa I-OBJECT
+ince B-RESULT
+kenarlık I-RESULT
+ekle B-ACTION
+
+Bi O
+Excelde B-PATH
+not B-OBJECT
+ortalaması I-OBJECT
+hücresine I-OBJECT
+ortalama B-RESULT
+formülü I-RESULT
+yaz B-ACTION
+
+Lütfen O
+Excelde B-PATH
+boş B-OBJECT
+hücreleri I-OBJECT
+sarı B-RESULT
+renkle I-RESULT
+vurgula B-ACTION
+
+Hemen O
+Excelde B-PATH
+aktif B-OBJECT
+filtreyi I-OBJECT
+kapalı B-RESULT
+duruma I-RESULT
+getir B-ACTION
+
+Şu O
+Excelde B-PATH
+grafik B-OBJECT
+başlığını I-OBJECT
+Sınıf B-RESULT
+Başarısı I-RESULT
+olarak I-RESULT
+değiştir B-ACTION
+
+Bi O
+PowerPointte B-PATH
+seçili B-OBJECT
+slayta I-OBJECT
+boş B-RESULT
+düzen I-RESULT
+uygula B-ACTION
+
+Lütfen O
+PowerPointte B-PATH
+başlık B-OBJECT
+metnini I-OBJECT
+kalın B-RESULT
+hale I-RESULT
+getir B-ACTION
+
+Şu O
+PowerPointte B-PATH
+slayt B-OBJECT
+numaralarını I-OBJECT
+görünür B-RESULT
+yap B-ACTION
+
+Hızlıca O
+PowerPointte B-PATH
+seçili B-OBJECT
+şeklin I-OBJECT
+rengini I-OBJECT
+turuncu B-RESULT
+yap B-ACTION
+
+Bi O
+PowerPointte B-PATH
+sunumu B-OBJECT
+masaüstüne B-LOCATION
+PPTX B-RESULT
+olarak I-RESULT
+kaydet B-ACTION
+
+Lütfen O
+Chrome B-PATH
+içinde I-PATH
+açık B-OBJECT
+sekmeyi I-OBJECT
+sağ B-LOCATION
+tarafa I-LOCATION
+taşı B-ACTION
+
+Şu O
+Chrome B-PATH
+üzerinde I-PATH
+arama B-OBJECT
+geçmişini I-OBJECT
+temiz B-RESULT
+duruma I-RESULT
+getir B-ACTION
+
+Bi O
+zahmet O
+Chrome B-PATH
+üzerinde I-PATH
+adres B-OBJECT
+çubuğunu I-OBJECT
+aktif B-RESULT
+hale I-RESULT
+getir B-ACTION
+
+Hemen O
+Chrome B-PATH
+içinde I-PATH
+geçerli B-OBJECT
+sekmeyi I-OBJECT
+yeni B-RESULT
+pencereye I-RESULT
+taşı B-ACTION
+
+Lütfen O
+Windows B-PATH
+masaüstünde I-PATH
+seçili B-OBJECT
+klasörü I-OBJECT
+Yedekler B-RESULT
+olarak I-RESULT
+adlandır B-ACTION
+
+Lütfen O
+Wordde B-PATH
+seçili B-OBJECT
+metnin I-OBJECT
+altını I-OBJECT
+çizili B-RESULT
+hale I-RESULT
+getir B-ACTION
+
+Bi O
+zahmet O
+Wordde B-PATH
+imlecin B-LOCATION
+olduğu I-LOCATION
+yere I-LOCATION
+üç B-RESULT
+sütunlu I-RESULT
+tablo I-RESULT
+ekle B-ACTION
+
+Şu O
+Wordde B-PATH
+sayfa B-OBJECT
+numaralarını I-OBJECT
+belgeden B-RESULT
+kaldırılmış I-RESULT
+hale I-RESULT
+getir B-ACTION
+
+Hızlıca O
+Wordde B-PATH
+belge B-OBJECT
+görünümünü I-OBJECT
+sayfa B-RESULT
+düzeni I-RESULT
+moduna I-RESULT
+al B-ACTION
+
+Lütfen O
+Wordde B-PATH
+seçili B-OBJECT
+paragrafı I-OBJECT
+çift B-RESULT
+satır I-RESULT
+aralığına I-RESULT
+ayarla B-ACTION
+
+Şu O
+Excelde B-PATH
+A1 B-OBJECT
+hücresine I-OBJECT
+Toplam B-RESULT
+başlığını I-RESULT
+yaz B-ACTION
+
+Bi O
+Excelde B-PATH
+seçili B-OBJECT
+hücreleri I-OBJECT
+yüzde B-RESULT
+formatına I-RESULT
+çevir B-ACTION
+
+Lütfen O
+Excelde B-PATH
+E B-OBJECT
+sütununu I-OBJECT
+gizli B-RESULT
+hale I-RESULT
+getir B-ACTION
+
+Şu O
+Excelde B-PATH
+gizli B-OBJECT
+satırları I-OBJECT
+görünür B-RESULT
+hale I-RESULT
+getir B-ACTION
+
+Hemen O
+Excelde B-PATH
+seçili B-OBJECT
+verilerle I-OBJECT
+pasta B-RESULT
+grafiği I-RESULT
+oluştur B-ACTION
+
+Bi O
+zahmet O
+Excelde B-PATH
+isim B-OBJECT
+sütununu I-OBJECT
+A B-RESULT
+dan I-RESULT
+Z I-RESULT
+ye I-RESULT
+sırala B-ACTION
+
+Lütfen O
+PowerPointte B-PATH
+seçili B-OBJECT
+metin I-OBJECT
+kutusunu I-OBJECT
+sol B-LOCATION
+üst I-LOCATION
+köşeye I-LOCATION
+taşı B-ACTION
+
+Şu O
+PowerPointte B-PATH
+seçili B-OBJECT
+resmin I-OBJECT
+arka I-OBJECT
+planını I-OBJECT
+saydam B-RESULT
+yap B-ACTION
+
+Bi O
+PowerPointte B-PATH
+geçerli B-OBJECT
+slayta I-OBJECT
+masaüstünden B-LOCATION
+görsel B-RESULT
+ekle B-ACTION
+
+Hızlıca O
+PowerPointte B-PATH
+sunumu B-OBJECT
+tam B-RESULT
+ekran I-RESULT
+olarak O
+başlat B-ACTION
+
+Lütfen O
+PowerPointte B-PATH
+geçerli B-OBJECT
+slayta I-OBJECT
+solma B-RESULT
+geçişi I-RESULT
+uygula B-ACTION
+
+Şu O
+Chrome B-PATH
+üzerinde I-PATH
+yer B-OBJECT
+imi I-OBJECT
+yöneticisini I-OBJECT
+aç B-ACTION
+
+Bi O
+zahmet O
+Chrome B-PATH
+içinde I-PATH
+geçerli B-OBJECT
+sekmeyi I-OBJECT
+sessiz B-RESULT
+duruma I-RESULT
+al B-ACTION
+
+Lütfen O
+Chrome B-PATH
+üzerinde I-PATH
+indirilenler B-OBJECT
+listesini I-OBJECT
+temiz B-RESULT
+hale I-RESULT
+getir B-ACTION
+
+Hemen O
+Chrome B-PATH
+içinde I-PATH
+gizli B-OBJECT
+pencereyi I-OBJECT
+aç B-ACTION
+
+Şu O
+Chrome B-PATH
+sayfasını I-PATH
+yüzde B-RESULT
+yüz I-RESULT
+yirmi I-RESULT
+beş I-RESULT
+yakınlaştır B-ACTION
+
+Bi O
+Windows B-PATH
+üzerinde I-PATH
+başlat B-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+
+Lütfen O
+Windows B-PATH
+görev I-PATH
+çubuğunda I-PATH
+arama B-OBJECT
+kutusunu I-OBJECT
+aktif B-RESULT
+hale I-RESULT
+getir B-ACTION
+
+Şu O
+dosya B-PATH
+gezgininde I-PATH
+görünümü B-OBJECT
+ayrıntılar B-RESULT
+moduna I-RESULT
+çevir B-ACTION
+
+Hızlıca O
+Windows B-PATH
+üzerinde I-PATH
+aktif B-OBJECT
+pencereyi I-OBJECT
+sol B-LOCATION
+tarafa I-LOCATION
+yasla B-ACTION
+
+Lütfen O
+masaüstünde B-LOCATION
+yeni B-OBJECT
+klasörü I-OBJECT
+Ders B-RESULT
+adıyla I-RESULT
+oluştur B-ACTION
+
+Bi O
+dosya B-PATH
+gezgininde I-PATH
+klasördeki B-OBJECT
+tüm I-OBJECT
+dosyaları I-OBJECT
+seçili B-RESULT
+hale I-RESULT
+getir B-ACTION
+
+Şu O
+dosya B-PATH
+gezgininde I-PATH
+seçili B-OBJECT
+dosyanın I-OBJECT
+adını I-OBJECT
+Sunum B-RESULT
+olarak I-RESULT
+değiştir B-ACTION
+
+Lütfen O
+Windows B-PATH
+geri I-PATH
+dönüşüm I-PATH
+kutusunda I-PATH
+seçili B-OBJECT
+dosyayı I-OBJECT
+eski B-LOCATION
+konumuna I-LOCATION
+geri B-RESULT
+yükle B-ACTION
+
+Hemen O
+Windows B-PATH
+masaüstünde I-PATH
+açık B-OBJECT
+pencereleri I-OBJECT
+küçük B-RESULT
+resimler I-RESULT
+halinde I-RESULT
+göster B-ACTION
+
+Şu O
+Wordde B-PATH
+seçili B-OBJECT
+metni I-OBJECT
+mavi B-RESULT
+renge I-RESULT
+çevir B-ACTION
+
+Bi O
+zahmet O
+Wordde B-PATH
+başlık B-OBJECT
+metnini I-OBJECT
+Başlık B-RESULT
+2 I-RESULT
+stiline I-RESULT
+ayarla B-ACTION
+
+Lütfen O
+Wordde B-PATH
+sayfanın B-OBJECT
+arka I-OBJECT
+planını I-OBJECT
+beyaz B-RESULT
+renk I-RESULT
+yap B-ACTION
+
+Şu O
+Wordde B-PATH
+seçili B-OBJECT
+tabloya I-OBJECT
+ince B-RESULT
+siyah I-RESULT
+kenarlık I-RESULT
+ekle B-ACTION
+
+Hızlıca O
+Wordde B-PATH
+belge B-OBJECT
+yakınlaştırmasını I-OBJECT
+yüzde B-RESULT
+yüz I-RESULT
+elli I-RESULT
+yap B-ACTION
+
+Bi O
+Excelde B-PATH
+F2 B-OBJECT
+hücresine I-OBJECT
+geçerli B-RESULT
+tarihi I-RESULT
+ekle B-ACTION
+
+Lütfen O
+Excelde B-PATH
+seçili B-OBJECT
+aralıktaki I-OBJECT
+boş B-OBJECT
+hücreleri I-OBJECT
+sıfır B-RESULT
+değeriyle I-RESULT
+doldur B-ACTION
+
+Şu O
+Excelde B-PATH
+grafik B-OBJECT
+renklerini I-OBJECT
+otomatik B-RESULT
+tema I-RESULT
+renklerine I-RESULT
+çevir B-ACTION
+
+Hemen O
+Excelde B-PATH
+aktif B-OBJECT
+sayfayı I-OBJECT
+PDF B-RESULT
+olarak I-RESULT
+masaüstüne B-LOCATION
+kaydet B-ACTION
+
+Bi O
+zahmet O
+Excelde B-PATH
+seçili B-OBJECT
+hücrelere I-OBJECT
+kalın B-RESULT
+kenarlık I-RESULT
+uygula B-ACTION
+
+Lütfen O
+PowerPointte B-PATH
+seçili B-OBJECT
+slaytın I-OBJECT
+arka I-OBJECT
+planını I-OBJECT
+açık B-RESULT
+gri I-RESULT
+yap B-ACTION
+
+Şu O
+PowerPointte B-PATH
+başlık B-OBJECT
+kutusunu I-OBJECT
+slaydın B-LOCATION
+ortasına I-LOCATION
+hizala B-ACTION
+
+Bi O
+PowerPointte B-PATH
+seçili B-OBJECT
+metni I-OBJECT
+yirmi B-RESULT
+dört I-RESULT
+punto I-RESULT
+yap B-ACTION
+
+Lütfen O
+PowerPointte B-PATH
+sunum B-OBJECT
+dosyasını I-OBJECT
+Belgeler B-LOCATION
+klasörüne I-LOCATION
+PPTX B-RESULT
+olarak I-RESULT
+kaydet B-ACTION
+
+Hızlıca O
+PowerPointte B-PATH
+seçili B-OBJECT
+slaydı I-OBJECT
+gizli B-RESULT
+duruma I-RESULT
+getir B-ACTION
+
+Şu O
+Chrome B-PATH
+içinde I-PATH
+adres B-OBJECT
+çubuğundaki I-OBJECT
+metni I-OBJECT
+tamamen B-RESULT
+seçili I-RESULT
+yap B-ACTION
+
+Bi O
+Chrome B-PATH
+üzerinde I-PATH
+geçerli B-OBJECT
+sayfayı I-OBJECT
+masaüstüne B-LOCATION
+HTML B-RESULT
+olarak I-RESULT
+kaydet B-ACTION
+
+Lütfen O
+Chrome B-PATH
+ayarlarında I-PATH
+kayıtlı B-OBJECT
+şifreler I-OBJECT
+sayfasını I-OBJECT
+aç B-ACTION
+
+Şu O
+Tarayıcıda B-PATH
+açık B-OBJECT
+olan I-OBJECT
+sekmeleri I-OBJECT
+sağa B-LOCATION
+doğru I-LOCATION
+sırala B-ACTION
+
+Hemen O
+Windows B-PATH
+sisteminde I-PATH
+ekran B-OBJECT
+koruyucuyu I-OBJECT
+kapalı B-RESULT
+duruma I-RESULT
+getir B-ACTION

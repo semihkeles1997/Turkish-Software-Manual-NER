@@ -1,0 +1,3365 @@
+VS B-PATH
+Code'da I-PATH
+GitLens B-OBJECT
+panelini I-OBJECT
+aç B-ACTION
+son B-RESULT
+commit I-RESULT
+geçmişini I-RESULT
+göster B-ACTION
+
+Chrome'da B-PATH
+adres B-OBJECT
+çubuğunu I-OBJECT
+seç B-ACTION
+yeni B-RESULT
+sekmede I-RESULT
+üniversite I-RESULT
+sitesini I-RESULT
+aç B-ACTION
+
+Word'de B-PATH
+seçili B-OBJECT
+paragrafı I-OBJECT
+ortala B-ACTION
+kalın B-RESULT
+başlık I-RESULT
+yap B-ACTION
+
+Excel'de B-PATH
+B2 B-OBJECT
+hücresini I-OBJECT
+seç B-ACTION
+toplam B-RESULT
+formülünü I-RESULT
+ekle B-ACTION
+
+bugün O
+hava O
+gerçekten O
+çok O
+sıcak O
+
+PowerPoint'te B-PATH
+üçüncü B-OBJECT
+slaydı I-OBJECT
+seç B-ACTION
+yumuşak B-RESULT
+geçiş I-RESULT
+efekti I-RESULT
+yap B-ACTION
+
+Masaüstünde B-PATH
+rapor B-OBJECT
+dosyasını I-OBJECT
+bul B-ACTION
+PDF B-RESULT
+olarak I-RESULT
+kaydet B-ACTION
+
+Windows'ta B-PATH
+görev B-OBJECT
+çubuğunu I-OBJECT
+aç B-ACTION
+ses B-RESULT
+ayarlarını I-RESULT
+getir B-ACTION
+
+Outlook'ta B-PATH
+taslak B-OBJECT
+mesajı I-OBJECT
+seç B-ACTION
+alıcı B-RESULT
+bilgisini I-RESULT
+göster B-ACTION
+
+kahvemin O
+tadı O
+bu O
+sabah O
+biraz O
+acı O
+
+Firefox'ta B-PATH
+yer B-OBJECT
+imleri I-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+son B-RESULT
+kaydedilen I-RESULT
+sayfayı I-RESULT
+bul B-ACTION
+
+Canva'da B-PATH
+afiş B-OBJECT
+taslağını I-OBJECT
+aç B-ACTION
+arka B-RESULT
+planı I-RESULT
+mavi I-RESULT
+yap B-ACTION
+
+Zoom'da B-PATH
+mikrofon B-OBJECT
+simgesini I-OBJECT
+seç B-ACTION
+sessiz B-RESULT
+modu I-RESULT
+aç B-ACTION
+
+Teams'te B-PATH
+sohbet B-OBJECT
+penceresini I-OBJECT
+aç B-ACTION
+son B-RESULT
+mesajı I-RESULT
+öne I-RESULT
+getir B-ACTION
+
+akşam O
+yemeği O
+için O
+ne O
+pişireceğimi O
+bilmiyorum O
+
+Google B-PATH
+Drive'da I-PATH
+proje B-OBJECT
+klasörünü I-OBJECT
+aç B-ACTION
+paylaşım B-RESULT
+bağlantısını I-RESULT
+oluştur B-ACTION
+
+Finder'da B-PATH
+İndirilenler B-OBJECT
+klasörünü I-OBJECT
+aç B-ACTION
+en B-RESULT
+yeni I-RESULT
+dosyayı I-RESULT
+göster B-ACTION
+
+Notion'da B-PATH
+toplantı B-OBJECT
+notlarını I-OBJECT
+aç B-ACTION
+kontrol B-RESULT
+listesi I-RESULT
+ekle B-ACTION
+
+Slack'te B-PATH
+genel B-OBJECT
+kanalını I-OBJECT
+aç B-ACTION
+okunmamış B-RESULT
+mesajları I-RESULT
+göster B-ACTION
+
+bugün O
+otobüs O
+beklediğimden O
+daha O
+geç O
+geldi O
+
+Word'de B-PATH
+üst B-LOCATION
+bilgiye I-LOCATION
+tıkla B-ACTION
+sayfa B-RESULT
+numarası I-RESULT
+ekle B-ACTION
+
+Excel'de B-PATH
+F B-OBJECT
+sütununu I-OBJECT
+seç B-ACTION
+para B-RESULT
+birimi I-RESULT
+biçimi I-RESULT
+yap B-ACTION
+
+Chrome'da B-PATH
+sağ B-LOCATION
+üst I-LOCATION
+menüyü B-OBJECT
+aç B-ACTION
+geçmiş B-RESULT
+sayfasını I-RESULT
+getir B-ACTION
+
+Photoshop'ta B-PATH
+katmanlar B-OBJECT
+panelini I-OBJECT
+aç B-ACTION
+arka B-RESULT
+plan I-RESULT
+katmanını I-RESULT
+kilitle B-ACTION
+
+kitap O
+okumaya O
+bu O
+ara O
+pek O
+vakit O
+bulamıyorum O
+
+Illustrator'da B-PATH
+seçili B-OBJECT
+logoyu I-OBJECT
+ortala B-ACTION
+vektör B-RESULT
+çıktısı I-RESULT
+kaydet B-ACTION
+
+Premiere'de B-PATH
+zaman B-OBJECT
+çizelgesini I-OBJECT
+aç B-ACTION
+son B-RESULT
+klibi I-RESULT
+kırp B-ACTION
+
+Spotify'da B-PATH
+çalma B-OBJECT
+listesini I-OBJECT
+aç B-ACTION
+karışık B-RESULT
+çalma I-RESULT
+modunu I-RESULT
+başlat B-ACTION
+
+Mail'de B-PATH
+gelen B-OBJECT
+kutusunu I-OBJECT
+yenile B-ACTION
+okunmamış B-RESULT
+iletileri I-RESULT
+göster B-ACTION
+
+bu O
+koltuk O
+sandığımdan O
+daha O
+rahat O
+çıktı O
+
+Terminal'de B-PATH
+proje B-OBJECT
+dizinine I-OBJECT
+git B-ACTION
+bağımlılık B-RESULT
+listesini I-RESULT
+göster B-ACTION
+
+GitHub'da B-PATH
+pull B-OBJECT
+request I-OBJECT
+sayfasını I-OBJECT
+aç B-ACTION
+inceleme B-RESULT
+yorumlarını I-RESULT
+getir B-ACTION
+
+Trello'da B-PATH
+yapılacaklar B-OBJECT
+kartını I-OBJECT
+seç B-ACTION
+son B-RESULT
+tarihi I-RESULT
+ekle B-ACTION
+
+Jira'da B-PATH
+aktif B-OBJECT
+sprinti I-OBJECT
+aç B-ACTION
+bloklanan B-RESULT
+işleri I-RESULT
+listele B-ACTION
+
+sabah O
+yürüyüşü O
+bana O
+iyi O
+geldi O
+
+Google B-PATH
+Docs'ta I-PATH
+yorum B-OBJECT
+panelini I-OBJECT
+aç B-ACTION
+çözümlenmemiş B-RESULT
+yorumları I-RESULT
+göster B-ACTION
+
+Excel'de B-PATH
+A1:D20 B-OBJECT
+aralığını I-OBJECT
+seç B-ACTION
+filtre B-RESULT
+düğmesini I-RESULT
+ekle B-ACTION
+
+Chrome'da B-PATH
+indirilenler B-OBJECT
+sayfasını I-OBJECT
+aç B-ACTION
+son B-RESULT
+indirilen I-RESULT
+dosyayı I-RESULT
+bul B-ACTION
+
+Windows'ta B-PATH
+başlat B-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+hesap B-RESULT
+makinesini I-RESULT
+çalıştır B-ACTION
+
+bu O
+hafta O
+işler O
+beklediğimden O
+yoğun O
+geçti O
+
+LibreOffice B-PATH
+Writer'da I-PATH
+dipnot B-OBJECT
+alanını I-OBJECT
+seç B-ACTION
+kaynak B-RESULT
+bilgisini I-RESULT
+ekle B-ACTION
+
+Safari'de B-PATH
+arama B-OBJECT
+kutusunu I-OBJECT
+seç B-ACTION
+güvenli B-RESULT
+arama I-RESULT
+sonuçlarını I-RESULT
+göster B-ACTION
+
+OneNote'ta B-PATH
+ders B-OBJECT
+sayfasını I-OBJECT
+aç B-ACTION
+önemli B-RESULT
+notları I-RESULT
+vurgula B-ACTION
+
+Excel'de B-PATH
+grafik B-OBJECT
+alanını I-OBJECT
+seç B-ACTION
+sütun B-RESULT
+grafiği I-RESULT
+yap B-ACTION
+
+annemin O
+bugünkü O
+yemeği O
+her O
+zamanki O
+gibi O
+güzeldi O
+
+PowerPoint'te B-PATH
+başlık B-OBJECT
+kutusunu I-OBJECT
+seç B-ACTION
+büyük B-RESULT
+harfli I-RESULT
+metin I-RESULT
+yap B-ACTION
+
+VS B-PATH
+Code'da I-PATH
+terminal B-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+çalışan B-RESULT
+işlemleri I-RESULT
+göster B-ACTION
+
+Chrome'da B-PATH
+sekme B-OBJECT
+grubunu I-OBJECT
+seç B-ACTION
+renkli B-RESULT
+grup I-RESULT
+etiketi I-RESULT
+yap B-ACTION
+
+Dosyalar'da B-PATH
+belgeler B-OBJECT
+klasörünü I-OBJECT
+aç B-ACTION
+ada B-RESULT
+göre I-RESULT
+sıralama I-RESULT
+yap B-ACTION
+
+komşunun O
+kedisi O
+yine O
+bahçede O
+uyuyordu O
+
+Word'de B-PATH
+tablo B-OBJECT
+satırını I-OBJECT
+seç B-ACTION
+gri B-RESULT
+dolgu I-RESULT
+rengi I-RESULT
+yap B-ACTION
+
+Excel'de B-PATH
+veri B-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+yinelenen B-RESULT
+kayıtları I-RESULT
+bul B-ACTION
+
+Chrome'da B-PATH
+profil B-OBJECT
+simgesine I-OBJECT
+tıkla B-ACTION
+misafir B-RESULT
+oturumunu I-RESULT
+aç B-ACTION
+
+PowerPoint'te B-PATH
+notlar B-OBJECT
+bölümünü I-OBJECT
+aç B-ACTION
+konuşmacı B-RESULT
+notlarını I-RESULT
+göster B-ACTION
+
+hava O
+kararmadan O
+eve O
+dönmek O
+daha O
+iyi O
+olur O
+
+Figma'da B-PATH
+sağ B-LOCATION
+paneldeki I-LOCATION
+renk B-OBJECT
+kutusunu I-OBJECT
+seç B-ACTION
+koyu B-RESULT
+tema I-RESULT
+paleti I-RESULT
+yap B-ACTION
+
+Chrome'da B-PATH
+sekme B-OBJECT
+başlığını I-OBJECT
+sağ B-ACTION
+tıkla I-ACTION
+sabitlenmiş B-RESULT
+sekme I-RESULT
+yap B-ACTION
+
+Word'de B-PATH
+kaynakça B-OBJECT
+listesini I-OBJECT
+aç B-ACTION
+APA B-RESULT
+biçiminde I-RESULT
+düzenle B-ACTION
+
+Excel'de B-PATH
+satır B-OBJECT
+12'yi I-OBJECT
+seç B-ACTION
+üst B-RESULT
+sınır I-RESULT
+çizgisi I-RESULT
+ekle B-ACTION
+
+bu O
+sabah O
+trafik O
+normalden O
+daha O
+sakindi O
+
+Blender'da B-PATH
+kamera B-OBJECT
+görünümünü I-OBJECT
+aç B-ACTION
+render B-RESULT
+önizlemesini I-RESULT
+göster B-ACTION
+
+Android B-PATH
+Studio'da I-PATH
+Logcat B-OBJECT
+panelini I-OBJECT
+aç B-ACTION
+hata B-RESULT
+kayıtlarını I-RESULT
+filtrele B-ACTION
+
+Apple B-PATH
+Mail'de I-PATH
+arşiv B-OBJECT
+klasörünü I-OBJECT
+aç B-ACTION
+geçen B-RESULT
+haftaki I-RESULT
+iletileri I-RESULT
+getir B-ACTION
+
+Zoom'da B-PATH
+katılımcılar B-OBJECT
+listesini I-OBJECT
+aç B-ACTION
+el B-RESULT
+kaldıranları I-RESULT
+göster B-ACTION
+
+bugün O
+biraz O
+erken O
+uyumak O
+istiyorum O
+
+FileZilla'da B-PATH
+uzak B-OBJECT
+sunucu I-OBJECT
+klasörünü I-OBJECT
+aç B-ACTION
+yeni B-RESULT
+yüklenen I-RESULT
+dosyaları I-RESULT
+listele B-ACTION
+
+Excel'de B-PATH
+koşullu B-OBJECT
+biçimlendirme I-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+negatif B-RESULT
+değerleri I-RESULT
+kırmızı I-RESULT
+yap B-ACTION
+
+Word'de B-PATH
+açıklamalar B-OBJECT
+bölmesini I-OBJECT
+aç B-ACTION
+çözülmemiş B-RESULT
+değişiklikleri I-RESULT
+göster B-ACTION
+
+Chrome'da B-PATH
+eklentiler B-OBJECT
+sayfasını I-OBJECT
+aç B-ACTION
+devre B-RESULT
+dışı I-RESULT
+eklentileri I-RESULT
+göster B-ACTION
+
+çantamı O
+nerede O
+bıraktığımı O
+hatırlamıyorum O
+
+SharePoint'te B-PATH
+ekip B-OBJECT
+klasörünü I-OBJECT
+aç B-ACTION
+son B-RESULT
+değiştirilen I-RESULT
+dosyayı I-RESULT
+bul B-ACTION
+
+Google B-PATH
+Sheets'te I-PATH
+grafik B-OBJECT
+düzenleyiciyi I-OBJECT
+aç B-ACTION
+çizgi B-RESULT
+grafik I-RESULT
+yap B-ACTION
+
+PowerPoint'te B-PATH
+görseli B-OBJECT
+seç B-ACTION
+yuvarlatılmış B-RESULT
+kenarlık I-RESULT
+ekle B-ACTION
+
+Windows'ta B-PATH
+bildirim B-OBJECT
+merkezini I-OBJECT
+aç B-ACTION
+odak B-RESULT
+yardımı I-RESULT
+ayarlarını I-RESULT
+getir B-ACTION
+
+yeni O
+ayakkabılarım O
+ilk O
+günden O
+ayağımı O
+vurdu O
+
+macOS'ta B-PATH
+Sistem B-OBJECT
+Ayarları'nı I-OBJECT
+aç B-ACTION
+klavye B-RESULT
+kısayollarını I-RESULT
+göster B-ACTION
+
+Teams'te B-PATH
+toplantı B-OBJECT
+sohbetini I-OBJECT
+aç B-ACTION
+paylaşılan B-RESULT
+bağlantıları I-RESULT
+göster B-ACTION
+
+Word'de B-PATH
+kapak B-OBJECT
+sayfasını I-OBJECT
+seç B-ACTION
+resmi B-RESULT
+yer I-RESULT
+tutucu I-RESULT
+ekle B-ACTION
+
+Excel'de B-PATH
+pivot B-OBJECT
+tabloyu I-OBJECT
+seç B-ACTION
+yüzde B-RESULT
+dağılımını I-RESULT
+göster B-ACTION
+
+bu O
+film O
+beklediğimden O
+çok O
+daha O
+iyiydi O
+
+WebStorm'da B-PATH
+proje B-OBJECT
+ağacını I-OBJECT
+aç B-ACTION
+config B-RESULT
+dosyasını I-RESULT
+bul B-ACTION
+
+GitLab'da B-PATH
+issue B-OBJECT
+listesini I-OBJECT
+aç B-ACTION
+açık B-RESULT
+hataları I-RESULT
+filtrele B-ACTION
+
+Trello'da B-PATH
+arşivlenmiş B-OBJECT
+kartları I-OBJECT
+aç B-ACTION
+tamamlanan B-RESULT
+görevleri I-RESULT
+göster B-ACTION
+
+Notepad++'ta B-PATH
+arama B-OBJECT
+penceresini I-OBJECT
+aç B-ACTION
+tüm B-RESULT
+eşleşmeleri I-RESULT
+listele B-ACTION
+
+sokaktaki O
+ağaçlar O
+bu O
+bahar O
+çok O
+güzel O
+çiçek O
+açtı O
+
+Gmail'de B-PATH
+spam B-OBJECT
+klasörünü I-OBJECT
+aç B-ACTION
+güvenli B-OBJECT
+iletileri I-OBJECT
+gelen B-RESULT
+kutusuna I-RESULT
+taşı B-ACTION
+
+Calendar'da B-PATH
+haftalık B-OBJECT
+görünümü I-OBJECT
+aç B-ACTION
+bugünkü B-RESULT
+toplantıları I-RESULT
+göster B-ACTION
+
+Word'de B-PATH
+denklem B-OBJECT
+alanını I-OBJECT
+seç B-ACTION
+kesir B-RESULT
+şablonu I-RESULT
+ekle B-ACTION
+
+Excel'de B-PATH
+yorum B-OBJECT
+hücresini I-OBJECT
+seç B-ACTION
+not B-RESULT
+geçmişini I-RESULT
+göster B-ACTION
+
+telefonum O
+neredeyse O
+bütün O
+gün O
+şarjda O
+kaldı O
+
+VLC'de B-PATH
+altyazı B-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+Türkçe B-RESULT
+altyazıyı I-RESULT
+etkinleştir B-ACTION
+
+YouTube'da B-PATH
+oynatma B-OBJECT
+listesini I-OBJECT
+aç B-ACTION
+en B-RESULT
+yeni I-RESULT
+videoyu I-RESULT
+başlat B-ACTION
+
+Discord'da B-PATH
+ses B-OBJECT
+kanalını I-OBJECT
+aç B-ACTION
+ekran B-RESULT
+paylaşımını I-RESULT
+başlat B-ACTION
+
+Microsoft B-PATH
+Store'da I-PATH
+güncellemeler B-OBJECT
+bölümünü I-OBJECT
+aç B-ACTION
+bekleyen B-RESULT
+indirmeleri I-RESULT
+göster B-ACTION
+
+bu O
+çay O
+fazla O
+demli O
+olmuş O
+
+Dropbox'ta B-PATH
+müşteri B-OBJECT
+klasörünü I-OBJECT
+aç B-ACTION
+paylaşılmış B-RESULT
+dosyaları I-RESULT
+listele B-ACTION
+
+Google B-PATH
+Photos'ta I-PATH
+albüm B-OBJECT
+kapağını I-OBJECT
+seç B-ACTION
+siyah B-RESULT
+beyaz I-RESULT
+filtre I-RESULT
+yap B-ACTION
+
+Word'de B-PATH
+tablo B-OBJECT
+başlığını I-OBJECT
+seç B-ACTION
+tekrar B-RESULT
+eden I-RESULT
+başlık I-RESULT
+satırı I-RESULT
+yap B-ACTION
+
+Excel'de B-PATH
+boş B-OBJECT
+hücreleri I-OBJECT
+seç B-ACTION
+sarı B-RESULT
+dolgu I-RESULT
+rengi I-RESULT
+yap B-ACTION
+
+bugün O
+kimseyle O
+uzun O
+uzun O
+konuşasım O
+yok O
+
+Linux'ta B-PATH
+ağ B-OBJECT
+ayarlarını I-OBJECT
+aç B-ACTION
+kablosuz B-RESULT
+bağlantıları I-RESULT
+göster B-ACTION
+
+AutoCAD'de B-PATH
+katman B-OBJECT
+yöneticisini I-OBJECT
+aç B-ACTION
+gizli B-RESULT
+katmanları I-RESULT
+göster B-ACTION
+
+Moodle'da B-PATH
+ödev B-OBJECT
+sayfasını I-OBJECT
+aç B-ACTION
+teslim B-RESULT
+etmeyen I-RESULT
+öğrencileri I-RESULT
+listele B-ACTION
+
+Chrome'da B-PATH
+çerez B-OBJECT
+ayarlarını I-OBJECT
+aç B-ACTION
+üçüncü B-RESULT
+taraf I-RESULT
+çerezlerini I-RESULT
+kapat B-ACTION
+
+akşam O
+rüzgar O
+birden O
+sertleşti O
+
+PyCharm'da B-PATH
+çalıştırma B-OBJECT
+konsolunu I-OBJECT
+aç B-ACTION
+son B-RESULT
+hata I-RESULT
+çıktısını I-RESULT
+göster B-ACTION
+
+Edge'de B-PATH
+favoriler B-OBJECT
+çubuğunu I-OBJECT
+aç B-ACTION
+iş B-RESULT
+klasörünü I-RESULT
+göster B-ACTION
+
+Word'de B-PATH
+alt B-LOCATION
+bilgiye I-LOCATION
+tıkla B-ACTION
+dosya B-RESULT
+adını I-RESULT
+ekle B-ACTION
+
+Excel'de B-PATH
+C B-OBJECT
+sütununu I-OBJECT
+seç B-ACTION
+tarih B-RESULT
+biçimi I-RESULT
+yap B-ACTION
+
+bugün O
+başım O
+biraz O
+ağrıyor O
+galiba O
+
+PowerPoint'te B-PATH
+slayt B-OBJECT
+küçük B-OBJECT
+resimlerini I-OBJECT
+aç B-ACTION
+ikinci B-RESULT
+slaydı I-RESULT
+çoğalt B-ACTION
+
+Windows'ta B-PATH
+dosya B-OBJECT
+gezginini I-OBJECT
+aç B-ACTION
+son B-RESULT
+kullanılan I-RESULT
+klasörleri I-RESULT
+göster B-ACTION
+
+Outlook'ta B-PATH
+takvim B-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+yarınki B-RESULT
+toplantıları I-RESULT
+listele B-ACTION
+
+Google B-PATH
+Meet'te I-PATH
+kamera B-OBJECT
+düğmesini I-OBJECT
+seç B-ACTION
+arka B-RESULT
+plan I-RESULT
+bulanıklığını I-RESULT
+aç B-ACTION
+
+bu O
+masa O
+beklediğimden O
+daha O
+sağlam O
+çıktı O
+
+Ubuntu'da B-PATH
+terminal B-OBJECT
+penceresini I-OBJECT
+aç B-ACTION
+disk B-RESULT
+kullanımını I-RESULT
+göster B-ACTION
+
+Chrome'da B-PATH
+geliştirici B-OBJECT
+araçlarını I-OBJECT
+aç B-ACTION
+ağ B-RESULT
+isteklerini I-RESULT
+göster B-ACTION
+
+Acrobat'ta B-PATH
+PDF B-OBJECT
+dosyasını I-OBJECT
+aç B-ACTION
+imza B-RESULT
+alanı I-RESULT
+ekle B-ACTION
+
+Excel'de B-PATH
+sayfa B-OBJECT
+sekmesini I-OBJECT
+sağ B-ACTION
+tıkla I-ACTION
+yeni B-RESULT
+çalışma I-RESULT
+sayfası I-RESULT
+ekle B-ACTION
+
+annem O
+bugün O
+çok O
+neşeli O
+görünüyor O
+
+WordPress'te B-PATH
+yazılar B-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+taslak B-RESULT
+yazıları I-RESULT
+listele B-ACTION
+
+Canva'da B-PATH
+metin B-OBJECT
+kutusunu I-OBJECT
+seç B-ACTION
+gölgelendirilmiş B-RESULT
+başlık I-RESULT
+yap B-ACTION
+
+Telegram'da B-PATH
+sohbet B-OBJECT
+listesini I-OBJECT
+aç B-ACTION
+sabitlenmiş B-RESULT
+mesajları I-RESULT
+göster B-ACTION
+
+OBS'de B-PATH
+sahne B-OBJECT
+listesini I-OBJECT
+aç B-ACTION
+ekran B-RESULT
+yakalama I-RESULT
+kaynağı I-RESULT
+ekle B-ACTION
+
+bugün O
+market O
+çok O
+kalabalıktı O
+
+Word'de B-PATH
+seçili B-OBJECT
+metni I-OBJECT
+biçimlendir B-ACTION
+altı B-RESULT
+çizili I-RESULT
+yazı I-RESULT
+yap B-ACTION
+
+Excel'de B-PATH
+formül B-OBJECT
+çubuğunu I-OBJECT
+seç B-ACTION
+hücre B-RESULT
+başvurusunu I-RESULT
+mutlak I-RESULT
+yap B-ACTION
+
+Chrome'da B-PATH
+şifre B-OBJECT
+yöneticisini I-OBJECT
+aç B-ACTION
+kayıtlı B-RESULT
+parolaları I-RESULT
+göster B-ACTION
+
+PowerPoint'te B-PATH
+animasyon B-OBJECT
+bölmesini I-OBJECT
+aç B-ACTION
+giriş B-RESULT
+efekti I-RESULT
+ekle B-ACTION
+
+bu O
+kazak O
+bana O
+biraz O
+dar O
+geldi O
+
+VS B-PATH
+Code'da I-PATH
+arama B-OBJECT
+panelini I-OBJECT
+aç B-ACTION
+todo B-RESULT
+notlarını I-RESULT
+bul B-ACTION
+
+IntelliJ'de B-PATH
+proje B-OBJECT
+görünümünü I-OBJECT
+aç B-ACTION
+test B-RESULT
+klasörünü I-RESULT
+göster B-ACTION
+
+GitHub B-PATH
+Desktop'ta I-PATH
+değişiklikler B-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+son B-RESULT
+farkları I-RESULT
+göster B-ACTION
+
+Postman'da B-PATH
+koleksiyon B-OBJECT
+listesini I-OBJECT
+aç B-ACTION
+başarısız B-RESULT
+istekleri I-RESULT
+filtrele B-ACTION
+
+sabah O
+kahvaltısı O
+bugün O
+çok O
+güzeldi O
+
+Excel'de B-PATH
+D5 B-OBJECT
+hücresini I-OBJECT
+seç B-ACTION
+açıklama B-RESULT
+kutusu I-RESULT
+ekle B-ACTION
+
+Word'de B-PATH
+sayfa B-OBJECT
+düzeni I-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+yatay B-RESULT
+sayfa I-RESULT
+yap B-ACTION
+
+Chrome'da B-PATH
+okuma B-OBJECT
+listesini I-OBJECT
+aç B-ACTION
+kaydedilmiş B-RESULT
+makaleleri I-RESULT
+göster B-ACTION
+
+Masaüstünde B-PATH
+eski B-OBJECT
+klasörü I-OBJECT
+seç B-ACTION
+yedek B-RESULT
+klasörüne I-RESULT
+taşı B-ACTION
+
+bu O
+saatte O
+dışarısı O
+çok O
+sessiz O
+
+Google B-PATH
+Forms'ta I-PATH
+yanıtlar B-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+özet B-RESULT
+grafikleri I-RESULT
+göster B-ACTION
+
+Miro'da B-PATH
+tahta B-OBJECT
+alanını I-OBJECT
+aç B-ACTION
+yapışkan B-RESULT
+not I-RESULT
+ekle B-ACTION
+
+Excel'de B-PATH
+satış B-OBJECT
+tablosunu I-OBJECT
+seç B-ACTION
+büyükten B-RESULT
+küçüğe I-RESULT
+sıralama I-RESULT
+yap B-ACTION
+
+PowerPoint'te B-PATH
+resim B-OBJECT
+yer B-OBJECT
+tutucusunu I-OBJECT
+seç B-ACTION
+örnek B-RESULT
+görsel I-RESULT
+ekle B-ACTION
+
+komşular O
+bu O
+akşam O
+biraz O
+gürültülü O
+
+Google B-PATH
+Classroom'da I-PATH
+ödev B-OBJECT
+akışını I-OBJECT
+aç B-ACTION
+geciken B-RESULT
+teslimleri I-RESULT
+göster B-ACTION
+
+Word'de B-PATH
+bul B-OBJECT
+ve I-OBJECT
+değiştir I-OBJECT
+penceresini I-OBJECT
+aç B-ACTION
+eski B-RESULT
+ifadeyi I-RESULT
+yenisiyle I-RESULT
+değiştir B-ACTION
+
+Excel'de B-PATH
+hücre B-OBJECT
+kenarlığını I-OBJECT
+seç B-ACTION
+kalın B-RESULT
+dış I-RESULT
+çerçeve I-RESULT
+yap B-ACTION
+
+Safari'de B-PATH
+gizlilik B-OBJECT
+raporunu I-OBJECT
+aç B-ACTION
+engellenen B-RESULT
+izleyicileri I-RESULT
+göster B-ACTION
+
+bugün O
+zaman O
+çok O
+hızlı O
+geçti O
+
+Photoshop'ta B-PATH
+fırça B-OBJECT
+aracını I-OBJECT
+seç B-ACTION
+yumuşak B-RESULT
+kenarlı I-RESULT
+fırça I-RESULT
+yap B-ACTION
+
+Excel'de B-PATH
+sayfa B-OBJECT
+başlığını I-OBJECT
+seç B-ACTION
+mavi B-RESULT
+sekme I-RESULT
+rengi I-RESULT
+yap B-ACTION
+
+Chrome'da B-PATH
+indirme B-OBJECT
+çubuğunu I-OBJECT
+aç B-ACTION
+tamamlanan B-RESULT
+indirmeleri I-RESULT
+göster B-ACTION
+
+Windows'ta B-PATH
+ayarlar B-OBJECT
+penceresini I-OBJECT
+aç B-ACTION
+ekran B-RESULT
+çözünürlüğünü I-RESULT
+değiştir B-ACTION
+
+gece O
+boyunca O
+yağmur O
+hiç O
+durmadı O
+
+Slack'te B-PATH
+arama B-OBJECT
+kutusunu I-OBJECT
+aç B-ACTION
+geçen B-RESULT
+haftaki I-RESULT
+dosya I-RESULT
+paylaşımlarını I-RESULT
+bul B-ACTION
+
+Word'de B-PATH
+seçili B-OBJECT
+cümleyi I-OBJECT
+düzenle B-ACTION
+italik B-RESULT
+metin I-RESULT
+yap B-ACTION
+
+Excel'de B-PATH
+stok B-OBJECT
+tablosunu I-OBJECT
+seç B-ACTION
+azalan B-RESULT
+miktara I-RESULT
+göre I-RESULT
+sırala B-ACTION
+
+Chrome'da B-PATH
+adres B-OBJECT
+çubuğunu I-OBJECT
+seç B-ACTION
+kampüs B-RESULT
+haritasını I-RESULT
+aç B-ACTION
+
+bugün O
+kahve O
+içmeden O
+kendime O
+gelemedim O
+
+PowerPoint'te B-PATH
+beşinci B-OBJECT
+slaydı I-OBJECT
+aç B-ACTION
+başlık B-RESULT
+animasyonu I-RESULT
+ekle B-ACTION
+
+VS B-PATH
+Code'da I-PATH
+uzantılar B-OBJECT
+panelini I-OBJECT
+aç B-ACTION
+Python B-RESULT
+eklentisini I-RESULT
+bul B-ACTION
+
+Windows'ta B-PATH
+Bluetooth B-OBJECT
+ayarlarını I-OBJECT
+aç B-ACTION
+eşleşmiş B-RESULT
+cihazları I-RESULT
+göster B-ACTION
+
+Gmail'de B-PATH
+arama B-OBJECT
+çubuğunu I-OBJECT
+seç B-ACTION
+ekli B-RESULT
+dosyası I-RESULT
+olan I-RESULT
+mailleri I-RESULT
+bul B-ACTION
+
+sabah O
+kapı O
+zili O
+birden O
+çalınca O
+uyandım O
+
+Notion'da B-PATH
+veritabanı B-OBJECT
+tablosunu I-OBJECT
+aç B-ACTION
+tamamlanmamış B-RESULT
+görevleri I-RESULT
+göster B-ACTION
+
+Zoom'da B-PATH
+ekran B-OBJECT
+paylaşımı I-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+yalnızca B-RESULT
+uygulama I-RESULT
+penceresini I-RESULT
+paylaş B-ACTION
+
+Finder'da B-PATH
+Belgeler B-OBJECT
+klasörünü I-OBJECT
+aç B-ACTION
+büyük B-RESULT
+dosyaları I-RESULT
+listele B-ACTION
+
+Photoshop'ta B-PATH
+seçim B-OBJECT
+aracını I-OBJECT
+aktif B-ACTION
+et I-ACTION
+arka B-RESULT
+planı I-RESULT
+temizle B-ACTION
+
+bugün O
+deniz O
+kenarı O
+çok O
+kalabalıktı O
+
+Trello'da B-PATH
+pano B-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+gecikmiş B-RESULT
+kartları I-RESULT
+göster B-ACTION
+
+Edge'de B-PATH
+koleksiyonlar B-OBJECT
+panelini I-OBJECT
+aç B-ACTION
+araştırma B-RESULT
+bağlantılarını I-RESULT
+getir B-ACTION
+
+Acrobat'ta B-PATH
+yorumlar B-OBJECT
+panelini I-OBJECT
+aç B-ACTION
+vurgulu B-RESULT
+notları I-RESULT
+göster B-ACTION
+
+Google B-PATH
+Sheets'te I-PATH
+hücre B-OBJECT
+aralığını I-OBJECT
+seç B-ACTION
+veri B-RESULT
+doğrulama I-RESULT
+listesi I-RESULT
+ekle B-ACTION
+
+bu O
+hafta O
+zaman O
+çok O
+hızlı O
+aktı O
+
+Android B-PATH
+Studio'da I-PATH
+emülatör B-OBJECT
+penceresini I-OBJECT
+aç B-ACTION
+cihaz B-RESULT
+günlüklerini I-RESULT
+göster B-ACTION
+
+Canva'da B-PATH
+sunum B-OBJECT
+sayfasını I-OBJECT
+aç B-ACTION
+minimal B-RESULT
+kapak I-RESULT
+tasarımı I-RESULT
+yap B-ACTION
+
+Outlook'ta B-PATH
+gelen B-OBJECT
+kutusunu I-OBJECT
+aç B-ACTION
+okunmamış B-RESULT
+mesajları I-RESULT
+üstte I-RESULT
+göster B-ACTION
+
+Word'de B-PATH
+içindekiler B-OBJECT
+tablosunu I-OBJECT
+seç B-ACTION
+otomatik B-RESULT
+başlık I-RESULT
+listesi I-RESULT
+yap B-ACTION
+
+kardeşim O
+bugün O
+çok O
+erken O
+çıktı O
+
+Excel'de B-PATH
+KDV B-OBJECT
+sütununu I-OBJECT
+seç B-ACTION
+yüzde B-RESULT
+biçimi I-RESULT
+uygula B-ACTION
+
+Chrome'da B-PATH
+sağ B-LOCATION
+üstteki I-LOCATION
+indirme B-OBJECT
+simgesine I-OBJECT
+tıkla B-ACTION
+başarısız B-RESULT
+indirmeleri I-RESULT
+göster B-ACTION
+
+Teams'te B-PATH
+dosyalar B-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+son B-RESULT
+paylaşılan I-RESULT
+belgeyi I-RESULT
+aç B-ACTION
+
+Dosya B-PATH
+Gezgini'nde I-PATH
+arama B-OBJECT
+kutusunu I-OBJECT
+seç B-ACTION
+boş B-RESULT
+klasörleri I-RESULT
+bul B-ACTION
+
+bu O
+akşam O
+ev O
+beklediğimden O
+sessiz O
+
+Figma'da B-PATH
+çerçeve B-OBJECT
+listesini I-OBJECT
+aç B-ACTION
+mobil B-RESULT
+ekran I-RESULT
+taslağını I-RESULT
+göster B-ACTION
+
+GitLab'da B-PATH
+merge B-OBJECT
+request I-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+çakışmalı B-RESULT
+dosyaları I-RESULT
+listele B-ACTION
+
+Moodle'da B-PATH
+not B-OBJECT
+defterini I-OBJECT
+aç B-ACTION
+eksik B-RESULT
+puanları I-RESULT
+göster B-ACTION
+
+OneDrive'da B-PATH
+paylaşılan B-OBJECT
+klasörü I-OBJECT
+aç B-ACTION
+düzenleme B-RESULT
+izni I-RESULT
+olan I-RESULT
+dosyaları I-RESULT
+listele B-ACTION
+
+bugün O
+sokakta O
+çok O
+tatlı O
+bir O
+köpek O
+gördüm O
+
+PowerPoint'te B-PATH
+slayt B-OBJECT
+gösterisi I-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+sunucu B-RESULT
+görünümünü I-RESULT
+başlat B-ACTION
+
+Word'de B-PATH
+değişiklikleri B-OBJECT
+izle I-OBJECT
+düğmesini I-OBJECT
+aç B-ACTION
+son B-RESULT
+düzenlemeleri I-RESULT
+göster B-ACTION
+
+Excel'de B-PATH
+sayfa B-OBJECT
+korumasını I-OBJECT
+aç B-ACTION
+şifreli B-RESULT
+koruma I-RESULT
+ekle B-ACTION
+
+Safari'de B-PATH
+sekme B-OBJECT
+genel I-OBJECT
+bakışını I-OBJECT
+aç B-ACTION
+açık B-RESULT
+sayfaları I-RESULT
+göster B-ACTION
+
+yeni O
+defterimin O
+kapağı O
+çok O
+hoşuma O
+gitti O
+
+Jira'da B-PATH
+raporlar B-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+tamamlanan B-RESULT
+işleri I-RESULT
+grafikte I-RESULT
+göster B-ACTION
+
+Terminal'de B-PATH
+ana B-OBJECT
+dizine I-OBJECT
+geç B-ACTION
+gizli B-RESULT
+dosyaları I-RESULT
+listele B-ACTION
+
+Blender'da B-PATH
+nesne B-OBJECT
+modunu I-OBJECT
+aç B-ACTION
+seçili B-RESULT
+modeli I-RESULT
+döndür B-ACTION
+
+Google B-PATH
+Docs'ta I-PATH
+paylaş B-OBJECT
+penceresini I-OBJECT
+aç B-ACTION
+yorumcu B-RESULT
+yetkisi I-RESULT
+ekle B-ACTION
+
+öğleden O
+sonra O
+biraz O
+yağmur O
+başladı O
+
+Ubuntu'da B-PATH
+uygulamalar B-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+sistem B-RESULT
+izleyicisini I-RESULT
+çalıştır B-ACTION
+
+Power B-PATH
+BI'da I-PATH
+rapor B-OBJECT
+sayfasını I-OBJECT
+aç B-ACTION
+satış B-RESULT
+özetini I-RESULT
+göster B-ACTION
+
+Prezi'de B-PATH
+sunum B-OBJECT
+yolunu I-OBJECT
+aç B-ACTION
+yakınlaştırma B-RESULT
+geçişi I-RESULT
+ekle B-ACTION
+
+Mail'de B-PATH
+bayraklı B-OBJECT
+iletileri I-OBJECT
+aç B-ACTION
+bugünkü B-RESULT
+hatırlatmaları I-RESULT
+göster B-ACTION
+
+gece O
+uyumadan O
+önce O
+biraz O
+müzik O
+dinledim O
+
+RStudio'da B-PATH
+kaynak B-OBJECT
+panelini I-OBJECT
+aç B-ACTION
+grafik B-RESULT
+çıktısını I-RESULT
+göster B-ACTION
+
+Chrome'da B-PATH
+arama B-OBJECT
+geçmişini I-OBJECT
+aç B-ACTION
+bugünkü B-RESULT
+sorguları I-RESULT
+listele B-ACTION
+
+Word'de B-PATH
+kenar B-OBJECT
+boşlukları I-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+dar B-RESULT
+sayfa I-RESULT
+düzeni I-RESULT
+yap B-ACTION
+
+Excel'de B-PATH
+öğrenci B-OBJECT
+tablosunu I-OBJECT
+seç B-ACTION
+geçen B-RESULT
+notları I-RESULT
+yeşil I-RESULT
+yap B-ACTION
+
+bugün O
+ofiste O
+herkes O
+biraz O
+yorgun O
+gibiydi O
+
+PowerPoint'te B-PATH
+slayt B-OBJECT
+numarası I-OBJECT
+alanını I-OBJECT
+aç B-ACTION
+alt B-RESULT
+köşeye I-RESULT
+numara I-RESULT
+ekle B-ACTION
+
+VS B-PATH
+Code'da I-PATH
+kaynak B-OBJECT
+kontrol I-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+değişen B-RESULT
+dosyaları I-RESULT
+göster B-ACTION
+
+Windows'ta B-PATH
+ekran B-OBJECT
+alıntısı I-OBJECT
+aracını I-OBJECT
+aç B-ACTION
+dikdörtgen B-RESULT
+seçim I-RESULT
+modunu I-RESULT
+başlat B-ACTION
+
+Gmail'de B-PATH
+etiket B-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+önemli B-RESULT
+mailleri I-RESULT
+göster B-ACTION
+
+bu O
+sabah O
+asansör O
+yine O
+çok O
+yavaş O
+çalıştı O
+
+Excel'de B-PATH
+gelir B-OBJECT
+sütununu I-OBJECT
+seç B-ACTION
+binlik B-RESULT
+ayırıcı I-RESULT
+biçimi I-RESULT
+uygula B-ACTION
+
+Word'de B-PATH
+başvuru B-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+dipnot B-RESULT
+numaralarını I-RESULT
+yenile B-ACTION
+
+Chrome'da B-PATH
+sol B-LOCATION
+üstteki I-LOCATION
+yenile B-OBJECT
+düğmesine I-OBJECT
+tıkla B-ACTION
+sayfayı B-RESULT
+yeniden I-RESULT
+yükle B-ACTION
+
+Zoom'da B-PATH
+ayarlar B-OBJECT
+penceresini I-OBJECT
+aç B-ACTION
+gürültü B-RESULT
+bastırmayı I-RESULT
+yüksek I-RESULT
+yap B-ACTION
+
+çorbanın O
+tuzu O
+bugün O
+tam O
+yerindeydi O
+
+Notion'da B-PATH
+sol B-LOCATION
+menüden I-LOCATION
+proje B-OBJECT
+sayfasını I-OBJECT
+aç B-ACTION
+kanban B-RESULT
+görünümünü I-RESULT
+getir B-ACTION
+
+Figma'da B-PATH
+katman B-OBJECT
+grubunu I-OBJECT
+seç B-ACTION
+otomatik B-RESULT
+yerleşim I-RESULT
+ekle B-ACTION
+
+Photoshop'ta B-PATH
+görüntü B-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+tuval B-RESULT
+boyutunu I-RESULT
+değiştir B-ACTION
+
+Acrobat'ta B-PATH
+sayfa B-OBJECT
+küçük B-OBJECT
+resimlerini I-OBJECT
+aç B-ACTION
+boş B-RESULT
+sayfaları I-RESULT
+sil B-ACTION
+
+bugün O
+telefon O
+hiç O
+susmadı O
+
+Slack'te B-PATH
+kanal B-OBJECT
+bilgisi I-OBJECT
+penceresini I-OBJECT
+aç B-ACTION
+sabitlenmiş B-RESULT
+dosyaları I-RESULT
+göster B-ACTION
+
+Teams'te B-PATH
+takvim B-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+çakışan B-RESULT
+toplantıları I-RESULT
+bul B-ACTION
+
+Google B-PATH
+Drive'da I-PATH
+arama B-OBJECT
+kutusunu I-OBJECT
+seç B-ACTION
+sahibi B-RESULT
+ben I-RESULT
+olan I-RESULT
+dosyaları I-RESULT
+listele B-ACTION
+
+Word'de B-PATH
+seçili B-OBJECT
+listeyi I-OBJECT
+düzenle B-ACTION
+numaralı B-RESULT
+liste I-RESULT
+yap B-ACTION
+
+akşam O
+üstü O
+hava O
+birden O
+serinledi O
+
+Excel'de B-PATH
+satır B-OBJECT
+yüksekliğini I-OBJECT
+seç B-ACTION
+otomatik B-RESULT
+sığdırma I-RESULT
+yap B-ACTION
+
+Chrome'da B-PATH
+gizli B-OBJECT
+pencereyi I-OBJECT
+aç B-ACTION
+boş B-RESULT
+arama I-RESULT
+sayfası I-RESULT
+getir B-ACTION
+
+PowerPoint'te B-PATH
+tasarım B-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+koyu B-RESULT
+tema I-RESULT
+uygula B-ACTION
+
+Outlook'ta B-PATH
+kurallar B-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+otomatik B-RESULT
+yanıt I-RESULT
+kuralı I-RESULT
+ekle B-ACTION
+
+bu O
+kalem O
+beklediğimden O
+daha O
+rahat O
+yazıyor O
+
+Moodle'da B-PATH
+katılımcılar B-OBJECT
+sayfasını I-OBJECT
+aç B-ACTION
+pasif B-RESULT
+öğrencileri I-RESULT
+listele B-ACTION
+
+Jira'da B-PATH
+filtre B-OBJECT
+panelini I-OBJECT
+aç B-ACTION
+bana B-RESULT
+atanan I-RESULT
+işleri I-RESULT
+göster B-ACTION
+
+GitHub'da B-PATH
+kod B-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+README B-RESULT
+dosyasını I-RESULT
+göster B-ACTION
+
+Terminal'de B-PATH
+çalışma B-OBJECT
+dizinini I-OBJECT
+değiştir B-ACTION
+güncel B-RESULT
+klasör I-RESULT
+yolunu I-RESULT
+göster B-ACTION
+
+bugün O
+pencereden O
+çok O
+güzel O
+ışık O
+giriyor O
+
+Google B-PATH
+Docs'ta I-PATH
+araçlar B-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+kelime B-RESULT
+sayısını I-RESULT
+göster B-ACTION
+
+Google B-PATH
+Sheets'te I-PATH
+korumalı B-OBJECT
+aralıkları I-OBJECT
+aç B-ACTION
+düzenleme B-RESULT
+izinlerini I-RESULT
+göster B-ACTION
+
+Safari'de B-PATH
+okuyucu B-OBJECT
+modunu I-OBJECT
+aç B-ACTION
+sade B-RESULT
+sayfa I-RESULT
+görünümü I-RESULT
+yap B-ACTION
+
+Canva'da B-PATH
+marka B-OBJECT
+kitini I-OBJECT
+aç B-ACTION
+kurumsal B-RESULT
+renkleri I-RESULT
+uygula B-ACTION
+
+bu O
+hafta O
+uykumu O
+pek O
+alamadım O
+
+AutoCAD'de B-PATH
+ölçülendirme B-OBJECT
+aracını I-OBJECT
+seç B-ACTION
+çap B-RESULT
+ölçüsü I-RESULT
+ekle B-ACTION
+
+Blender'da B-PATH
+malzeme B-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+metalik B-RESULT
+yüzey I-RESULT
+yap B-ACTION
+
+Unity'de B-PATH
+hierarchy B-OBJECT
+panelini I-OBJECT
+aç B-ACTION
+ışık B-RESULT
+nesnesi I-RESULT
+ekle B-ACTION
+
+Excel'de B-PATH
+boş B-OBJECT
+satırları I-OBJECT
+seç B-ACTION
+tablodan B-RESULT
+kaldır B-ACTION
+
+öğlen O
+yemeğinden O
+sonra O
+biraz O
+uykum O
+geldi O
+
+Word'de B-PATH
+yorum B-OBJECT
+balonlarını I-OBJECT
+aç B-ACTION
+yazar B-RESULT
+adlarını I-RESULT
+gizle B-ACTION
+
+Chrome'da B-PATH
+site B-OBJECT
+izinlerini I-OBJECT
+aç B-ACTION
+kamera B-RESULT
+erişimini I-RESULT
+kapat B-ACTION
+
+PowerPoint'te B-PATH
+ana B-OBJECT
+slaytı I-OBJECT
+aç B-ACTION
+logo B-RESULT
+alanı I-RESULT
+ekle B-ACTION
+
+OneNote'ta B-PATH
+etiketler B-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+yapılacak B-RESULT
+iş I-RESULT
+etiketi I-RESULT
+ekle B-ACTION
+
+bugün O
+koridorda O
+eski O
+bir O
+arkadaşımla O
+karşılaştım O
+
+Visual B-PATH
+Studio'da I-PATH
+çözüm B-OBJECT
+gezginini I-OBJECT
+aç B-ACTION
+hata B-RESULT
+veren I-RESULT
+dosyaları I-RESULT
+göster B-ACTION
+
+Chrome'da B-PATH
+yer B-OBJECT
+imleri I-OBJECT
+çubuğunu I-OBJECT
+aç B-ACTION
+sık B-RESULT
+kullanılan I-RESULT
+siteleri I-RESULT
+göster B-ACTION
+
+Word'de B-PATH
+seçili B-OBJECT
+tabloyu I-OBJECT
+düzenle B-ACTION
+kenarlıksız B-RESULT
+tablo I-RESULT
+yap B-ACTION
+
+Excel'de B-PATH
+not B-OBJECT
+ortalaması I-OBJECT
+sütununu I-OBJECT
+seç B-ACTION
+iki B-RESULT
+ondalık I-RESULT
+biçimi I-RESULT
+uygula B-ACTION
+
+bugün O
+hava O
+beklediğimden O
+daha O
+nemli O
+
+PowerPoint'te B-PATH
+geçişler B-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+tüm B-RESULT
+slaytlara I-RESULT
+solma I-RESULT
+efekti I-RESULT
+ekle B-ACTION
+
+Windows'ta B-PATH
+arama B-OBJECT
+kutusunu I-OBJECT
+aç B-ACTION
+ekran B-RESULT
+koruyucu I-RESULT
+ayarlarını I-RESULT
+bul B-ACTION
+
+Outlook'ta B-PATH
+imza B-OBJECT
+ayarlarını I-OBJECT
+aç B-ACTION
+kurumsal B-RESULT
+imza I-RESULT
+ekle B-ACTION
+
+Google B-PATH
+Slides'ta I-PATH
+tema B-OBJECT
+panelini I-OBJECT
+aç B-ACTION
+sade B-RESULT
+sunum I-RESULT
+teması I-RESULT
+uygula B-ACTION
+
+bu O
+sabah O
+çayım O
+çok O
+çabuk O
+soğudu O
+
+Excel'de B-PATH
+grafik B-OBJECT
+başlığını I-OBJECT
+seç B-ACTION
+aylık B-RESULT
+satış I-RESULT
+özeti I-RESULT
+yaz B-ACTION
+
+Word'de B-PATH
+giriş B-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+biçim B-RESULT
+boyacısını I-RESULT
+etkinleştir B-ACTION
+
+Chrome'da B-PATH
+sekmeler B-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+sessize B-RESULT
+alınmış I-RESULT
+sekmeleri I-RESULT
+göster B-ACTION
+
+Zoom'da B-PATH
+katılımcı B-OBJECT
+adını I-OBJECT
+seç B-ACTION
+yardımcı B-RESULT
+sunucu I-RESULT
+yetkisi I-RESULT
+ver B-ACTION
+
+akşam O
+saatlerinde O
+sokak O
+biraz O
+kalabalıklaştı O
+
+Slack'te B-PATH
+dosyalar B-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+PDF B-RESULT
+eklerini I-RESULT
+listele B-ACTION
+
+Teams'te B-PATH
+arama B-OBJECT
+çubuğunu I-OBJECT
+seç B-ACTION
+toplantı B-RESULT
+kaydını I-RESULT
+bul B-ACTION
+
+Google B-PATH
+Drive'da I-PATH
+çöp B-OBJECT
+kutusunu I-OBJECT
+aç B-ACTION
+silinen B-RESULT
+dosyaları I-RESULT
+göster B-ACTION
+
+Canva'da B-PATH
+şablon B-OBJECT
+galerisini I-OBJECT
+aç B-ACTION
+eğitim B-RESULT
+afişlerini I-RESULT
+getir B-ACTION
+
+bugün O
+masamın O
+üstü O
+fazla O
+dağınık O
+
+Photoshop'ta B-PATH
+metin B-OBJECT
+katmanını I-OBJECT
+seç B-ACTION
+beyaz B-RESULT
+yazı I-RESULT
+rengi I-RESULT
+yap B-ACTION
+
+Illustrator'da B-PATH
+çizim B-OBJECT
+alanını I-OBJECT
+aç B-ACTION
+ızgara B-RESULT
+görünümünü I-RESULT
+göster B-ACTION
+
+Premiere B-PATH
+Pro'da I-PATH
+ses B-OBJECT
+parçasını I-OBJECT
+seç B-ACTION
+gürültü B-RESULT
+azaltma I-RESULT
+efekti I-RESULT
+ekle B-ACTION
+
+After B-PATH
+Effects'te I-PATH
+kompozisyon B-OBJECT
+panelini I-OBJECT
+aç B-ACTION
+önizleme B-RESULT
+çözünürlüğünü I-RESULT
+düşür B-ACTION
+
+öğleden O
+sonra O
+hafif O
+bir O
+baş O
+ağrısı O
+başladı O
+
+Android B-PATH
+Studio'da I-PATH
+gradle B-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+senkronizasyon B-RESULT
+hatalarını I-RESULT
+göster B-ACTION
+
+Xcode'da B-PATH
+simülatör B-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+iPhone B-RESULT
+modeli I-RESULT
+seç B-ACTION
+
+Postman'da B-PATH
+ortam B-OBJECT
+değişkenlerini I-OBJECT
+aç B-ACTION
+test B-RESULT
+sunucusu I-RESULT
+adresini I-RESULT
+ekle B-ACTION
+
+GitHub'da B-PATH
+aksiyonlar B-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+başarısız B-RESULT
+iş I-RESULT
+akışlarını I-RESULT
+göster B-ACTION
+
+bu O
+hafta O
+kendimi O
+biraz O
+daha O
+toparlanmış O
+hissediyorum O
+
+Git B-PATH
+Bash'te I-PATH
+mevcut B-OBJECT
+depoyu I-OBJECT
+aç B-ACTION
+son B-RESULT
+dal I-RESULT
+durumunu I-RESULT
+göster B-ACTION
+
+Terminal'de B-PATH
+log B-OBJECT
+dosyasını I-OBJECT
+aç B-ACTION
+hata B-RESULT
+satırlarını I-RESULT
+filtrele B-ACTION
+
+Docker B-PATH
+Desktop'ta I-PATH
+container B-OBJECT
+listesini I-OBJECT
+aç B-ACTION
+duran B-RESULT
+servisleri I-RESULT
+göster B-ACTION
+
+Kubernetes B-PATH
+Dashboard'da I-PATH
+pod B-OBJECT
+listesini I-OBJECT
+aç B-ACTION
+yeniden B-RESULT
+başlayan I-RESULT
+podları I-RESULT
+listele B-ACTION
+
+bugün O
+koridordaki O
+ışık O
+sürekli O
+yanıp O
+sönüyordu O
+
+Moodle'da B-PATH
+sınav B-OBJECT
+ayarlarını I-OBJECT
+aç B-ACTION
+zaman B-RESULT
+sınırını I-RESULT
+göster B-ACTION
+
+Google B-PATH
+Classroom'da I-PATH
+sınıf B-OBJECT
+çalışmaları I-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+yayınlanmamış B-RESULT
+ödevleri I-RESULT
+listele B-ACTION
+
+OBS'de B-PATH
+kaynaklar B-OBJECT
+panelini I-OBJECT
+aç B-ACTION
+pencere B-RESULT
+yakalama I-RESULT
+kaynağı I-RESULT
+ekle B-ACTION
+
+VLC'de B-PATH
+oynatma B-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+döngü B-RESULT
+modunu I-RESULT
+etkinleştir B-ACTION
+
+dışarıdan O
+çocukların O
+oyun O
+sesleri O
+geliyor O
+
+Spotify'da B-PATH
+arama B-OBJECT
+alanını I-OBJECT
+seç B-ACTION
+akustik B-RESULT
+çalma I-RESULT
+listelerini I-RESULT
+getir B-ACTION
+
+YouTube'da B-PATH
+altyazı B-OBJECT
+düğmesini I-OBJECT
+aç B-ACTION
+otomatik B-RESULT
+Türkçe I-RESULT
+altyazı I-RESULT
+seç B-ACTION
+
+Discord'da B-PATH
+sunucu B-OBJECT
+ayarlarını I-OBJECT
+aç B-ACTION
+rol B-RESULT
+izinlerini I-RESULT
+göster B-ACTION
+
+Telegram'da B-PATH
+kanal B-OBJECT
+bilgilerini I-OBJECT
+aç B-ACTION
+medya B-RESULT
+dosyalarını I-RESULT
+listele B-ACTION
+
+bu O
+çanta O
+göründüğünden O
+daha O
+ağır O
+
+Notepad++'ta B-PATH
+kod B-OBJECT
+dosyasını I-OBJECT
+aç B-ACTION
+boş B-RESULT
+satırları I-RESULT
+sil B-ACTION
+
+LibreOffice B-PATH
+Calc'ta I-PATH
+veri B-OBJECT
+aralığını I-OBJECT
+seç B-ACTION
+otomatik B-RESULT
+filtre I-RESULT
+ekle B-ACTION
+
+Keynote'ta B-PATH
+slayt B-OBJECT
+düzenini I-OBJECT
+aç B-ACTION
+başlık B-RESULT
+ve I-RESULT
+görsel I-RESULT
+yerleşimi I-RESULT
+seç B-ACTION
+
+Numbers'da B-PATH
+bütçe B-OBJECT
+tablosunu I-OBJECT
+aç B-ACTION
+toplam B-RESULT
+satırını I-RESULT
+göster B-ACTION
+
+bugün O
+rüzgar O
+pencereyi O
+sürekli O
+titretti O
+
+Excel'de B-PATH
+hücre B-OBJECT
+stillerini I-OBJECT
+aç B-ACTION
+uyarı B-RESULT
+rengi I-RESULT
+biçimi I-RESULT
+uygula B-ACTION
+
+Word'de B-PATH
+gezinti B-OBJECT
+bölmesini I-OBJECT
+aç B-ACTION
+başlık B-RESULT
+düzeylerini I-RESULT
+göster B-ACTION
+
+Chrome'da B-PATH
+yan B-OBJECT
+paneli I-OBJECT
+aç B-ACTION
+okuma B-RESULT
+listesini I-RESULT
+göster B-ACTION
+
+PowerPoint'te B-PATH
+seçili B-OBJECT
+şekli I-OBJECT
+düzenle B-ACTION
+saydam B-RESULT
+dolgu I-RESULT
+yap B-ACTION
+
+bugün O
+hava O
+bir O
+garip O
+kapalı O
+
+Webex'te B-PATH
+toplantı B-OBJECT
+kontrollerini I-OBJECT
+aç B-ACTION
+katılımcı B-RESULT
+seslerini I-RESULT
+kapat B-ACTION
+
+Zotero'da B-PATH
+kaynak B-OBJECT
+kitaplığını I-OBJECT
+aç B-ACTION
+eksik B-RESULT
+DOI I-RESULT
+kayıtlarını I-RESULT
+bul B-ACTION
+
+EndNote'ta B-PATH
+referans B-OBJECT
+grubunu I-OBJECT
+aç B-ACTION
+dergi B-RESULT
+adlarını I-RESULT
+kısalt B-ACTION
+
+Windows'ta B-PATH
+sağ B-LOCATION
+alttaki I-LOCATION
+ağ B-OBJECT
+simgesine I-OBJECT
+tıkla B-ACTION
+bağlantı B-RESULT
+durumunu I-RESULT
+göster B-ACTION
+
+bu O
+akşam O
+biraz O
+erken O
+çıkacağım O
+
+Finder'da B-PATH
+masaüstü B-OBJECT
+klasörünü I-OBJECT
+aç B-ACTION
+ekran B-RESULT
+görüntülerini I-RESULT
+listele B-ACTION
+
+Gmail'de B-PATH
+sol B-LOCATION
+menüdeki I-LOCATION
+yıldızlı B-OBJECT
+klasörünü I-OBJECT
+aç B-ACTION
+önemli B-RESULT
+iletileri I-RESULT
+göster B-ACTION
+
+Word'de B-PATH
+biçim B-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+seçili B-RESULT
+metni I-RESULT
+küçük I-RESULT
+harf I-RESULT
+yap B-ACTION
+
+Excel'de B-PATH
+satış B-OBJECT
+grafiğini I-OBJECT
+seç B-ACTION
+veri B-RESULT
+etiketleri I-RESULT
+ekle B-ACTION
+
+bugün O
+sınıf O
+beklediğimden O
+daha O
+sessizdi O
+
+Chrome'da B-PATH
+ayarlar B-OBJECT
+sayfasını I-OBJECT
+aç B-ACTION
+başlangıç B-RESULT
+sayfasını I-RESULT
+değiştir B-ACTION
+
+PowerPoint'te B-PATH
+slayt B-OBJECT
+arka B-OBJECT
+planını I-OBJECT
+seç B-ACTION
+açık B-RESULT
+gri I-RESULT
+renk I-RESULT
+yap B-ACTION
+
+VS B-PATH
+Code'da I-PATH
+komut B-OBJECT
+paletini I-OBJECT
+aç B-ACTION
+dosya B-RESULT
+biçimlendirme I-RESULT
+komutunu I-RESULT
+çalıştır B-ACTION
+
+PyCharm'da B-PATH
+proje B-OBJECT
+yorumlayıcısını I-OBJECT
+aç B-ACTION
+kurulu B-RESULT
+paketleri I-RESULT
+göster B-ACTION
+
+sabah O
+radyoda O
+eski O
+bir O
+şarkı O
+çalıyordu O
+
+IntelliJ'de B-PATH
+run B-OBJECT
+configurations I-OBJECT
+penceresini I-OBJECT
+aç B-ACTION
+test B-RESULT
+profili I-RESULT
+oluştur B-ACTION
+
+GitHub'da B-PATH
+branches B-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+korumalı B-RESULT
+dalları I-RESULT
+listele B-ACTION
+
+Bitbucket'ta B-PATH
+repository B-OBJECT
+ayarlarını I-OBJECT
+aç B-ACTION
+erişim B-RESULT
+anahtarlarını I-RESULT
+göster B-ACTION
+
+Trello'da B-PATH
+etiket B-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+acil B-RESULT
+etiketi I-RESULT
+ekle B-ACTION
+
+bu O
+defa O
+toplantı O
+çok O
+kısa O
+sürdü O
+
+Notion'da B-PATH
+sayfa B-OBJECT
+geçmişini I-OBJECT
+aç B-ACTION
+önceki B-RESULT
+sürümü I-RESULT
+geri B-RESULT
+yükle B-ACTION
+
+Miro'da B-PATH
+sol B-LOCATION
+araç B-OBJECT
+çubuğundan I-OBJECT
+ok B-RESULT
+şekli I-RESULT
+ekle B-ACTION
+
+Lucidchart'ta B-PATH
+akış B-OBJECT
+diyagramını I-OBJECT
+aç B-ACTION
+karar B-RESULT
+kutusu I-RESULT
+ekle B-ACTION
+
+Canva'da B-PATH
+yüklemeler B-OBJECT
+panelini I-OBJECT
+aç B-ACTION
+son B-RESULT
+eklenen I-RESULT
+görselleri I-RESULT
+göster B-ACTION
+
+bugün O
+öğle O
+arası O
+çok O
+çabuk O
+bitti O
+
+Photoshop'ta B-PATH
+katman B-OBJECT
+maskesini I-OBJECT
+seç B-ACTION
+beyaz B-RESULT
+maske I-RESULT
+oluştur B-ACTION
+
+Illustrator'da B-PATH
+renk B-OBJECT
+örnekleri I-OBJECT
+panelini I-OBJECT
+aç B-ACTION
+kurumsal B-RESULT
+renk I-RESULT
+paleti I-RESULT
+ekle B-ACTION
+
+Premiere'de B-PATH
+efekt B-OBJECT
+kontrollerini I-OBJECT
+aç B-ACTION
+bulanıklık B-RESULT
+efekti I-RESULT
+uygula B-ACTION
+
+DaVinci B-PATH
+Resolve'da I-PATH
+renk B-OBJECT
+sayfasını I-OBJECT
+aç B-ACTION
+sıcak B-RESULT
+ton I-RESULT
+ayarı I-RESULT
+yap B-ACTION
+
+bugün O
+çalışma O
+odası O
+fazla O
+sıcaktı O
+
+OBS'de B-PATH
+mikser B-OBJECT
+panelini I-OBJECT
+aç B-ACTION
+masaüstü B-RESULT
+sesini I-RESULT
+kıs B-ACTION
+
+Audacity'de B-PATH
+ses B-OBJECT
+parçasını I-OBJECT
+seç B-ACTION
+dip B-RESULT
+gürültüsünü I-RESULT
+azalt B-ACTION
+
+VLC'de B-PATH
+ses B-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+ses B-RESULT
+izini I-RESULT
+değiştir B-ACTION
+
+Spotify'da B-PATH
+şarkı B-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+kuyruğa B-RESULT
+ekleme I-RESULT
+yap B-ACTION
+
+bugün O
+yürürken O
+yolda O
+eski O
+bir O
+para O
+buldum O
+
+YouTube'da B-PATH
+video B-OBJECT
+ayarlarını I-OBJECT
+aç B-ACTION
+oynatma B-RESULT
+hızını I-RESULT
+artır B-ACTION
+
+Discord'da B-PATH
+bildirim B-OBJECT
+ayarlarını I-OBJECT
+aç B-ACTION
+sunucu B-RESULT
+uyarılarını I-RESULT
+kapat B-ACTION
+
+Telegram'da B-PATH
+arama B-OBJECT
+alanını I-OBJECT
+seç B-ACTION
+sesli B-RESULT
+mesajları I-RESULT
+bul B-ACTION
+
+WhatsApp B-PATH
+Web'de I-PATH
+sohbet B-OBJECT
+penceresini I-OBJECT
+aç B-ACTION
+yıldızlı B-RESULT
+mesajları I-RESULT
+göster B-ACTION
+
+bu O
+sene O
+zaman O
+çok O
+hızlı O
+geçiyor O
+
+Moodle'da B-PATH
+soru B-OBJECT
+bankasını I-OBJECT
+aç B-ACTION
+çoktan B-RESULT
+seçmeli I-RESULT
+soruları I-RESULT
+listele B-ACTION
+
+Google B-PATH
+Classroom'da I-PATH
+duyuru B-OBJECT
+alanını I-OBJECT
+aç B-ACTION
+taslak B-RESULT
+duyuruyu I-RESULT
+kaydet B-ACTION
+
+Microsoft B-PATH
+Forms'ta I-PATH
+yanıt B-OBJECT
+tablosunu I-OBJECT
+aç B-ACTION
+Excel B-RESULT
+çıktısı I-RESULT
+indir B-ACTION
+
+Power B-PATH
+BI'da I-PATH
+filtreler B-OBJECT
+bölmesini I-OBJECT
+aç B-ACTION
+bölge B-RESULT
+filtresini I-RESULT
+uygula B-ACTION
+
+bugün O
+kapının O
+önünde O
+uzun O
+bir O
+kuyruk O
+vardı O
+
+Excel'de B-PATH
+formüller B-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+ad B-RESULT
+yöneticisini I-RESULT
+göster B-ACTION
+
+Word'de B-PATH
+sayfa B-OBJECT
+sonu I-OBJECT
+alanını I-OBJECT
+seç B-ACTION
+bölüm B-RESULT
+sonu I-RESULT
+ekle B-ACTION
+
+Chrome'da B-PATH
+yan B-OBJECT
+panel I-OBJECT
+düğmesine I-OBJECT
+tıkla B-ACTION
+yer B-RESULT
+imleri I-RESULT
+listesini I-RESULT
+aç B-ACTION
+
+PowerPoint'te B-PATH
+zamanlama B-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+otomatik B-RESULT
+slayt I-RESULT
+geçişi I-RESULT
+ayarla B-ACTION
+
+bugün O
+hava O
+beklediğimden O
+daha O
+açık O
+geldi O
+
+Word'de B-PATH
+seçili B-OBJECT
+paragrafı I-OBJECT
+biçimlendir B-ACTION
+iki B-RESULT
+yana I-RESULT
+yaslı I-RESULT
+metin I-RESULT
+yap B-ACTION
+
+Excel'de B-PATH
+veri B-OBJECT
+modelini I-OBJECT
+aç B-ACTION
+ilişkili B-RESULT
+tabloları I-RESULT
+göster B-ACTION
+
+Microsoft B-PATH
+Edge'de I-PATH
+profil B-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+iş B-RESULT
+profiline I-RESULT
+geç B-ACTION
+
+Windows'ta B-PATH
+hızlı B-OBJECT
+ayarlar I-OBJECT
+panelini I-OBJECT
+aç B-ACTION
+gece B-RESULT
+ışığını I-RESULT
+etkinleştir B-ACTION
+
+bu O
+sabah O
+kahvaltı O
+masası O
+çok O
+kalabalıktı O
+
+macOS'ta B-PATH
+denetim B-OBJECT
+merkezini I-OBJECT
+aç B-ACTION
+ekran B-RESULT
+yansıtmayı I-RESULT
+başlat B-ACTION
+
+Finder'da B-PATH
+etiketler B-OBJECT
+bölümünü I-OBJECT
+aç B-ACTION
+kırmızı B-RESULT
+etiketli I-RESULT
+dosyaları I-RESULT
+göster B-ACTION
+
+Gmail'de B-PATH
+filtre B-OBJECT
+oluşturma I-OBJECT
+penceresini I-OBJECT
+aç B-ACTION
+ekli B-RESULT
+dosyalı I-RESULT
+mailler I-RESULT
+için I-RESULT
+kural I-RESULT
+ekle B-ACTION
+
+Outlook'ta B-PATH
+sol B-LOCATION
+klasör I-LOCATION
+listesinden I-LOCATION
+arşiv B-OBJECT
+klasörünü I-OBJECT
+aç B-ACTION
+eski B-RESULT
+iletileri I-RESULT
+göster B-ACTION
+
+bugün O
+ders O
+arasında O
+çok O
+az O
+dinlenebildim O
+
+Teams'te B-PATH
+kanal B-OBJECT
+ayarlarını I-OBJECT
+aç B-ACTION
+moderasyon B-RESULT
+seçeneklerini I-RESULT
+göster B-ACTION
+
+Slack'te B-PATH
+sol B-LOCATION
+kenar I-LOCATION
+çubuğundaki I-LOCATION
+taslaklar B-OBJECT
+bölümünü I-OBJECT
+aç B-ACTION
+yarım B-RESULT
+kalmış I-RESULT
+mesajları I-RESULT
+getir B-ACTION
+
+Zoom'da B-PATH
+güvenlik B-OBJECT
+menüsünü I-OBJECT
+aç B-ACTION
+bekleme B-RESULT
+odasını I-RESULT
+etkinleştir B-ACTION
+
+Google B-PATH
+Meet'te I-PATH
+altyazılar B-OBJECT
+düğmesini I-OBJECT
+aç B-ACTION
+Türkçe B-RESULT
+altyazı I-RESULT
+seç B-ACTION
+
+bugün O
+ayakkabılarım O
+fazla O
+toz O
+olmuş O
+
+Notion'da B-PATH
+şablon B-OBJECT
+galerisini I-OBJECT
+aç B-ACTION
+ders B-RESULT
+planı I-RESULT
+şablonunu I-RESULT
+bul B-ACTION
+
+Trello'da B-PATH
+takvim B-OBJECT
+görünümünü I-OBJECT
+aç B-ACTION
+bu B-RESULT
+haftaki I-RESULT
+kartları I-RESULT
+listele B-ACTION
+
+Jira'da B-PATH
+gelişmiş B-OBJECT
+arama I-OBJECT
+alanını I-OBJECT
+aç B-ACTION
+yüksek B-RESULT
+öncelikli I-RESULT
+işleri I-RESULT
+bul B-ACTION
+
+GitHub'da B-PATH
+pull B-OBJECT
+request I-OBJECT
+yorumlarını I-OBJECT
+aç B-ACTION
+çözülmemiş B-RESULT
+konuşmaları I-RESULT
+göster B-ACTION
+
+bu O
+akşam O
+gökyüzü O
+çok O
+temiz O
+görünüyor O
+
+VS B-PATH
+Code'da I-PATH
+sol B-LOCATION
+gezgindeki I-LOCATION
+src B-OBJECT
+klasörünü I-OBJECT
+aç B-ACTION
+ana B-RESULT
+dosyayı I-RESULT
+bul B-ACTION
+
+PyCharm'da B-PATH
+debug B-OBJECT
+panelini I-OBJECT
+aç B-ACTION
+değişken B-RESULT
+değerlerini I-RESULT
+göster B-ACTION
+
+Android B-PATH
+Studio'da I-PATH
+layout B-OBJECT
+editörünü I-OBJECT
+aç B-ACTION
+önizleme B-RESULT
+ekranını I-RESULT
+göster B-ACTION
+
+Xcode'da B-PATH
+issues B-OBJECT
+navigator I-OBJECT
+panelini I-OBJECT
+aç B-ACTION
+derleme B-RESULT
+uyarılarını I-RESULT
+listele B-ACTION
+
+bugün O
+üst O
+komşudan O
+hiç O
+ses O
+gelmedi O
+
+Postman'da B-PATH
+request B-OBJECT
+body I-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+JSON B-RESULT
+örneği I-RESULT
+ekle B-ACTION
+
+Docker B-PATH
+Desktop'ta I-PATH
+images B-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+kullanılmayan B-RESULT
+imajları I-RESULT
+sil B-ACTION
+
+Terminal'de B-PATH
+aktif B-OBJECT
+oturumu I-OBJECT
+aç B-ACTION
+çalışan B-RESULT
+portları I-RESULT
+listele B-ACTION
+
+Git B-PATH
+Bash'te I-PATH
+branch B-OBJECT
+listesini I-OBJECT
+aç B-ACTION
+uzak B-RESULT
+dalları I-RESULT
+göster B-ACTION
+
+öğleden O
+sonra O
+birden O
+uykum O
+geldi O
+
+Photoshop'ta B-PATH
+renk B-OBJECT
+düzeltme I-OBJECT
+panelini I-OBJECT
+aç B-ACTION
+kontrast B-RESULT
+ayarını I-RESULT
+artır B-ACTION
+
+Illustrator'da B-PATH
+hizalama B-OBJECT
+panelini I-OBJECT
+aç B-ACTION
+seçili B-RESULT
+nesneleri I-RESULT
+ortala B-ACTION
+
+Figma'da B-PATH
+prototype B-OBJECT
+sekmesini I-OBJECT
+aç B-ACTION
+butona B-RESULT
+geçiş I-RESULT
+bağlantısı I-RESULT
+ekle B-ACTION
+
+Canva'da B-PATH
+sayfa B-OBJECT
+düzenini I-OBJECT
+aç B-ACTION
+kare B-RESULT
+sosyal I-RESULT
+medya I-RESULT
+tasarımı I-RESULT
+yap B-ACTION
+
+bugün O
+bahçedeki O
+çiçekler O
+daha O
+canlı O
+duruyor O
+
+OBS'de B-PATH
+sahne B-OBJECT
+geçişlerini I-OBJECT
+aç B-ACTION
+solma B-RESULT
+geçişi I-RESULT
+ekle B-ACTION
+
+Audacity'de B-PATH
+dalga B-OBJECT
+formunu I-OBJECT
+seç B-ACTION
+sessiz B-RESULT
+bölümleri I-RESULT
+kırp B-ACTION
+
+Premiere B-PATH
+Pro'da I-PATH
+altyazı B-OBJECT
+panelini I-OBJECT
+aç B-ACTION
+otomatik B-RESULT
+transkript I-RESULT
+oluştur B-ACTION
+
+DaVinci B-PATH
+Resolve'da I-PATH
+timeline B-OBJECT
+alanını I-OBJECT
+aç B-ACTION
+boş B-RESULT
+klipleri I-RESULT
+temizle B-ACTION
+
+bu O
+hafta O
+kitap O
+okumaya O
+hiç O
+fırsat O
+bulamadım O
+
+Moodle'da B-PATH
+sınav B-OBJECT
+sonuçlarını I-OBJECT
+aç B-ACTION
+başarısız B-RESULT
+öğrencileri I-RESULT
+listele B-ACTION
+
+Google B-PATH
+Classroom'da I-PATH
+notlar B-OBJECT
+sayfasını I-OBJECT
+aç B-ACTION
+eksik B-RESULT
+değerlendirmeleri I-RESULT
+göster B-ACTION
+
+Microsoft B-PATH
+Forms'ta I-PATH
+soru B-OBJECT
+ayarlarını I-OBJECT
+aç B-ACTION
+zorunlu B-RESULT
+yanıt I-RESULT
+seçeneği I-RESULT
+ekle B-ACTION
+
+Power B-PATH
+BI'da I-PATH
+görselleştirme B-OBJECT
+panelini I-OBJECT
+aç B-ACTION
+pasta B-RESULT
+grafiği I-RESULT
+oluştur B-ACTION
+
+bu O
+gece O
+sokak O
+lambaları O
+çok O
+parlak O
+yanıyordu O
