@@ -1,0 +1,1 @@
+# Turkish-Software-Manual-NER
